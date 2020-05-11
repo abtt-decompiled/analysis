@@ -17,7 +17,7 @@
 
 [COVIDSafe.watch Discord server](https://discord.gg/5bYSn7) - Hub for Australian information security professionals and developers looking at the Australian COVIDSafe app.
 
-[Dissection of COVIDSafe]9https://docs.google.com/document/d/17GuApb1fG3Bn0_DVgDQgrtnd_QO3foBl7NVb8vaWeKc/preview#) - This Google doc is an enormous community resource about the Australian app.
+[Dissection of COVIDSafe](https://docs.google.com/document/d/17GuApb1fG3Bn0_DVgDQgrtnd_QO3foBl7NVb8vaWeKc/preview#) - This Google doc is an enormous community resource about the Australian app.
 
 March 23 2020 - [TraceTogether: under the good](https://medium.com/@frankvolkel/tracetogether-under-the-hood-7d5e509aeb5d) - Engineer studying the Singaporean app
 

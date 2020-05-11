@@ -1,6 +1,9 @@
 # ABTraceTogether Analysis
+>  Patrick King, Calgary area Web Developer
+>  
+>  [@king4nosehill](https://twitter.com/king4nosehill/) / patrick.f.king@gmail.com
 
-
+Updated May 11 2020
 
 ## Background
 
