@@ -73,7 +73,7 @@ May 6 2020 - [More users needed: Lessons from Alberta's coronavirus contact trac
 
 May 6 2020 - [ABTraceTogether continues to disappoint](https://medium.com/@mattlaschneider/abtracetogether-continues-to-disappoint-76bc1f8b1f06) - Matthew Schneider
 
-May 7 2020 - [ABTraceTogether - Why isn't it going to work?](https://www.youtube.com/watch?v=2NPkC4njKMM)
+May 7 2020 - [ABTraceTogether - Why isn't it going to work?](https://www.youtube.com/watch?v=2NPkC4njKMM) - Webcast. Lori Olson, Calgary area senior developer.
 
 May 7 2020 - [Un dépistage national des contacts des individus infectés rejeté par le Bloc / "Bloc rejects national contract tracing"](https://www.rcinet.ca/fr/2020/05/07/un-depistage-national-des-contacts-des-individus-infectes-rejete-par-le-bloc/) - Radio Canada
 
@@ -117,11 +117,13 @@ May 5 2020 - [The Inventors of Bluetooth Say There Could Be Problems Using Their
 
 May 6 2020 - [Can Australia's coronavirus contact tracing app COVIDSafe lift the country out of lockdown?](https://www.abc.net.au/news/science/2020-05-06/coronavirus-contact-tracing-app-covid-safe-lockdown-lift/12217146) - ABC News Australia
 
-May 6 2020 - [DTA admits COVIDSafe performance "highly variable" on iOS](https://www.itnews.com.au/news/dta-admits-covidsafe-performance-highly-variable-on-ios-547838)
+May 6 2020 - [DTA admits COVIDSafe performance "highly variable" on iOS](https://www.itnews.com.au/news/dta-admits-covidsafe-performance-highly-variable-on-ios-547838) - ITNews Australia
 
 May 7 2020 - [India is forcing people to use its covid app, unlike any other democracy](https://www.technologyreview.com/2020/05/07/1001360/india-aarogya-setu-covid-app-mandatory/) - MIT Technology Review
 
 May 7 2020 - [Coronavirus contact-tracing: World split between two types of app](https://www.bbc.co.uk/news/technology-52355028) - BBC News
+
+May 7 2020 - [Un-appy, Scott: flaws and inconsistencies start to mount for troubled surveillance app](https://www.crikey.com.au/2020/05/07/flaws-inconsistencies-covidsafe/) - Crikey (Australia/COVIDSafe). "The haste with which the government has rushed out its surveillance app means flaws are now emerging that could be exploited by stalkers and domestic abusers."
 
 May 8 2020 - [A comparison on the state of CovidApp transparency in Aus, the UK and Singapore](https://twitter.com/VTeagueAus/status/1258745850647293953) - Vanessa Teague, Twitter thread
 
