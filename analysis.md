@@ -76,6 +76,7 @@ I've identified a long list of topics to dig into in more detail, time permittin
 - Issues with tempIDs from a central authority
 - Issues with the central authority having the phone number
 - Changes from 1.0.0 to 1.0.1
+- Difficulties with an eventual Apple/Google upgrade (and confusion in communication on this point)
 
 ## Changes
 
