@@ -1,0 +1,2373 @@
+diff abtracetogether_1.0.0.apk_disassembled/AndroidManifest.xml abtracetogether_1.0.1.apk_disassembled/AndroidManifest.xml
+22a23
+>         <activity android:name="ca.albertahealthservices.contacttracing.RestartActivity" android:screenOrientation="portrait"/>
+Binary files abtracetogether_1.0.0.apk_disassembled/classes2.dex and abtracetogether_1.0.1.apk_disassembled/classes2.dex differ
+Only in abtracetogether_1.0.0.apk_disassembled/: .git
+Binary files abtracetogether_1.0.0.apk_disassembled/original\AndroidManifest.xml and abtracetogether_1.0.1.apk_disassembled/original\AndroidManifest.xml differ
+Binary files abtracetogether_1.0.0.apk_disassembled/original\META-INF\GOAAPP.RSA and abtracetogether_1.0.1.apk_disassembled/original\META-INF\GOAAPP.RSA differ
+diff "abtracetogether_1.0.0.apk_disassembled/original\\META-INF\\GOAAPP.SF" "abtracetogether_1.0.1.apk_disassembled/original\\META-INF\\GOAAPP.SF"
+3c3
+< SHA1-Digest-Manifest: Aekwipchn5eMg7VBWXvy8KNp9a0=
+---
+> SHA1-Digest-Manifest: 29Wq5MytiSl7C67I4hfjC9UA33g=
+26c26
+< SHA1-Digest: UPx4gs4Ji2P6ZAp9lQRzGwVICOE=
+---
+> SHA1-Digest: eRBmw60qxBz1+VxJ6Rkc8HWlqMU=
+117c117
+< SHA1-Digest: dKecx7C7WSZw0d87ppEb6mvLbfY=
+---
+> SHA1-Digest: wh6BwvzF2u+mh9rt6bI3j6lpTBA=
+147c147
+< SHA1-Digest: +o1kz6Dt8oJkRIC6jY+nv742TuM=
+---
+> SHA1-Digest: s2dV3wxEoivkqH55gpKvCUyykhc=
+596c596
+< SHA1-Digest: E07ThV0Dv5UWjmEGke51H/Bo+PI=
+---
+> SHA1-Digest: 5zCM/Kz15uRApqwdSiqQogA++Pk=
+696c696
+< SHA1-Digest: B9aJwXo3He+G3WxW5USAMeXcGVo=
+---
+> SHA1-Digest: uHnvXVpSyKSM1p1IX5t4mljXwyc=
+708c708
+< SHA1-Digest: S54FXKn9keYENGFzPfQo7TgMr5c=
+---
+> SHA1-Digest: mcLgoreb0H27BHD0Szkj+BpQNWc=
+919c919
+< SHA1-Digest: bojAqBprA1nrF7nsZH/T0Z7Lhi4=
+---
+> SHA1-Digest: oUD9ukbbea1z/Kdl5g41MO/KAw8=
+1261c1261
+< SHA1-Digest: D9Afw4udsAD8oG9kUc29bZjIeLI=
+---
+> SHA1-Digest: dXxE3iVHe9laeGgI/VpqcY2gUsM=
+1288c1288
+< SHA1-Digest: SwV8rLBvHeOXLZ4MKIqrhP9hyVg=
+---
+> SHA1-Digest: rlmvEcBCcHFM8q3VohezuO9Y7c0=
+1589c1589
+< SHA1-Digest: BTLeunzQiFOIOM9bat6GD9SctzU=
+---
+> SHA1-Digest: 9Y+uvrTikHN1c2LIYLOstNBgDYA=
+1613c1613
+< SHA1-Digest: LYhjoqwDjGR2Yb70/JyltoBtXiQ=
+---
+> SHA1-Digest: hBM9JBgzwTlHsJtSWIaN7Ids5vo=
+1682c1682
+< SHA1-Digest: GOAum9qrSSXvew2IcSXlbzrzI3A=
+---
+> SHA1-Digest: wdaOc6hY6TOeUcsTAQ5M0HXTZrI=
+1704c1704
+< SHA1-Digest: xi1344SEQjrhLK8sZh3QrRKiRvI=
+---
+> SHA1-Digest: MfFUkPjUo77ttnsJVP+B5J1fasE=
+1728c1728
+< SHA1-Digest: yWKnuZWDFuMACrxWzg3DnalF3mg=
+---
+> SHA1-Digest: 3ieD46zq+AjN7csj9lgPN1OMgdg=
+1920c1920
+< SHA1-Digest: Cv4G3ej+Id9xDkMpdpjqM61lbTI=
+---
+> SHA1-Digest: FuNaAp/2XurR7TvkumlUncv5XOk=
+2033c2033
+< SHA1-Digest: gsHhsjQGL4ZygME2vzQFSJfdbDg=
+---
+> SHA1-Digest: OyCOjX2AzIDjfWSpOM0eXhou0bY=
+2144c2144
+< SHA1-Digest: nNaZXePmME6ejsm1+f+S6sAMUGs=
+---
+> SHA1-Digest: SjmL7BiWS+81VO8jGhfTYQPySQc=
+2597c2597
+< SHA1-Digest: zYo2jeIK6PeZXBG9zNFVXWvrNKU=
+---
+> SHA1-Digest: ZRwcVQEju+nydqEjQu4N2vQ9lBs=
+2811c2811
+< SHA1-Digest: zhNfL4O3KIGWY3NxNryl7lpSTy8=
+---
+> SHA1-Digest: MU8wxG55LNNnznnJBoBs9RrLeg8=
+3012c3012
+< SHA1-Digest: 7AoQsKvoEsn9ndgfZcchi5PqAHU=
+---
+> SHA1-Digest: UL4V5go+XN5RKRZPluXrrVHC5WY=
+3088c3088
+< SHA1-Digest: YEcgzfB8QCpGeor+dYREOnr5Pew=
+---
+> SHA1-Digest: V5Q0EZ7SIikFEshXlwst7SFB02E=
+3109c3109
+< SHA1-Digest: pj978ICj/sYoR6mlGDwtGxPqbKU=
+---
+> SHA1-Digest: DEOt91sEJTR7sqsZFTgjuaFBAYQ=
+3171c3171
+< SHA1-Digest: NdhVAmwm9yGHG1/ir8tzem/sTVE=
+---
+> SHA1-Digest: 4aiQ2NXuacPkA4fzEYhuMymMZrM=
+3237c3237
+< SHA1-Digest: QqzQ7sNQN4FCWkqUc0S1gIghwkc=
+---
+> SHA1-Digest: UQxi5jY9Igltu1qePSjPS88K+io=
+3413c3413
+< SHA1-Digest: 9tTcMEdlhnHh2JZVp7xU7h3VY5o=
+---
+> SHA1-Digest: 5Yh6M/7zpzChCfI7c+f2vIYOtvU=
+diff "abtracetogether_1.0.0.apk_disassembled/original\\META-INF\\MANIFEST.MF" "abtracetogether_1.0.1.apk_disassembled/original\\META-INF\\MANIFEST.MF"
+25c25
+< SHA1-Digest: i9njI+m6m49067WinDm9s2snEN0=
+---
+> SHA1-Digest: VZFGxvx+FOYohZ+lmlyxDRTmevg=
+116c116
+< SHA1-Digest: /8BQYp11l7W8+5Q7hwyMq+9NeDw=
+---
+> SHA1-Digest: eA7U6sdHw+prLAy8yd51JbEI5/4=
+146c146
+< SHA1-Digest: ds30ow41lXHK3fh06LWftOYEz14=
+---
+> SHA1-Digest: kP22T0P+PS74fcF5pePEgTW5iS8=
+595c595
+< SHA1-Digest: 2i3UxZGv+j90O2eWM42sBXuDz34=
+---
+> SHA1-Digest: PnPmvdxjh/ojBwa8vMRAjok5u5w=
+695c695
+< SHA1-Digest: fV1DYn+XgWqZeuuts4BjPZ4nc2E=
+---
+> SHA1-Digest: FLPXotxCUQj8UooEbyjk4z380MI=
+707c707
+< SHA1-Digest: jUebH4F9stw9WPu5joN3Cwh1HWo=
+---
+> SHA1-Digest: JI7UAC2X/pTiqvyTXqIMDEMnJ4w=
+918c918
+< SHA1-Digest: 7d2bhHgj+yaep5LCpQLCOyEk3Is=
+---
+> SHA1-Digest: 2CzuqaND09e/F7PzILa2tTV4Aac=
+1260c1260
+< SHA1-Digest: V7ltJVdE+DrWgoC5mEcR6Xspp+0=
+---
+> SHA1-Digest: 2ZEGWMsvAs7FPaCaPndMfdNlvPU=
+1287c1287
+< SHA1-Digest: 11FxBmH36SXbhJIbmeL682ZFOJg=
+---
+> SHA1-Digest: k86cZJBKxtMKABmbgOvwRSgRAio=
+1588c1588
+< SHA1-Digest: sfnWFIUI3t0NU5sZQuRc7y33t4A=
+---
+> SHA1-Digest: edK5Mp7zP9L9LBxJn4IocDQf0zY=
+1612c1612
+< SHA1-Digest: QSAmRK9MDRmElzUiPyg/qoi7T9o=
+---
+> SHA1-Digest: RuEFbPhDiFFI7XMYK+v2PhJUUUA=
+1681c1681
+< SHA1-Digest: iShAVTtWGw2d+V+DssQ/vkpt7RM=
+---
+> SHA1-Digest: +SdNHWvoCdJtqnTxM3fI4xXtM+U=
+1703c1703
+< SHA1-Digest: gMUPDxCihLQNxcf99b9zi9GXLv8=
+---
+> SHA1-Digest: gJ9sNVNEBBtulpmuOJJkFDspLWY=
+1727c1727
+< SHA1-Digest: M5jhbxQ/4dPChtGH+na/7PHiC+c=
+---
+> SHA1-Digest: 6B3v0SmnzlcpUDW17ZNCs1eh3pg=
+1919c1919
+< SHA1-Digest: CzdyWVvL79P85gCDoHJuorHExNo=
+---
+> SHA1-Digest: gKZIVhUnH92SvAvfmCo4jHbuH3k=
+2032c2032
+< SHA1-Digest: ecTvm4mDHi4bMpjQdzvPisiHvhc=
+---
+> SHA1-Digest: nNH6EDF/AMCDTEoAOHeL0ZkATbw=
+2143c2143
+< SHA1-Digest: 9XQH4Jo7IN38WkFOZjcinUQl9SI=
+---
+> SHA1-Digest: 6p7TKLPJVBSLMukb4TOjVHHuq90=
+2596c2596
+< SHA1-Digest: uG9nK0dmUitPAfvNNukWnDFYDTU=
+---
+> SHA1-Digest: wU04oCe0BBe1XRIOC/vGeZaB5Lg=
+2810c2810
+< SHA1-Digest: aWyGbrXuEWkRX+CNNNieVG2LY2g=
+---
+> SHA1-Digest: Q3atqXHHWeGHa2Q1bwR5zC1S/Uc=
+3011c3011
+< SHA1-Digest: VeHBSabb4lFM9gDHf8d4PjUtUiA=
+---
+> SHA1-Digest: D5aXvuY7+10bBkIEPhrtqBfMn8U=
+3087c3087
+< SHA1-Digest: PIN4IjG8ysNbrXv4a22+Lpc6DKc=
+---
+> SHA1-Digest: p8Z6HXIIPiI1dszKsu//SZMaCe0=
+3108c3108
+< SHA1-Digest: EabzDWHgOThYyJo7nKl01HsBpoM=
+---
+> SHA1-Digest: sCyiy6rOTAWDsqLtntDvh2niPxs=
+3170c3170
+< SHA1-Digest: BB/vEBOtXT6tTqSzdGztEDlt7gM=
+---
+> SHA1-Digest: VnyvT/erm2V030VhmBHbYbyWTtM=
+3236c3236
+< SHA1-Digest: reo+EexnrgDhwRHnZR0e6R+rRQQ=
+---
+> SHA1-Digest: mcS9jU2LHLhWoyxHQ9DO+2sXybk=
+3412c3412
+< SHA1-Digest: mTU4dZR9yZR/lpFWbSCJ/U+SdVE=
+---
+> SHA1-Digest: Evm+ExdYdwVDOYBeCi5W5M8tkyM=
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\fragment_home.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\fragment_home.xml"
+11c11,12
+<                     <androidx.appcompat.widget.AppCompatTextView android:id="@id/tv_last_update" android:paddingLeft="13.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13.0dip" card_view:layout_constraintLeft_toLeftOf="parent" card_view:layout_constraintTop_toBottomOf="@id/tv_home_subtitle" style="@style/OnboardingDesc" />
+---
+>                     <androidx.appcompat.widget.AppCompatTextView android:id="@id/tv_last_update" android:paddingLeft="13.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13.0dip" android:layout_marginBottom="0.0dip" card_view:layout_constraintLeft_toLeftOf="parent" card_view:layout_constraintTop_toBottomOf="@id/tv_home_subtitle" style="@style/OnboardingDesc" />
+>                     <androidx.appcompat.widget.AppCompatTextView android:id="@id/tv_app_version" android:paddingLeft="13.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" card_view:layout_constraintLeft_toLeftOf="parent" card_view:layout_constraintTop_toBottomOf="@id/tv_last_update" style="@style/OnboardingDesc" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\fragment_otp.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\fragment_otp.xml"
+10c10
+<         <LinearLayout android:orientation="vertical" android:id="@id/middleLayout" android:paddingLeft="13.0dip" android:paddingRight="13.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/topLayout" app:layout_constraintVertical_weight="3.0">
+---
+>         <LinearLayout android:orientation="vertical" android:id="@id/middleLayout" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/topLayout" app:layout_constraintVertical_weight="3.0">
+12,17c12,17
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et1" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et2" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et3" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et4" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et5" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+<                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et6" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+---
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et1" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et2" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et3" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et4" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et5" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+>                 <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et6" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\fragment_register_number.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\fragment_register_number.xml"
+14a15
+>     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="22.0dip" app:layout_constraintBottom_toTopOf="@id/footer" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" style="@style/OnboardingDesc" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\fragment_upload_enterpin.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\fragment_upload_enterpin.xml"
+8,13c8,13
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et1" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et2" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et3" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et4" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et5" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+<         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et6" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+---
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et1" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et2" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et3" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et4" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et5" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+>         <EditText android:textSize="48.0sp" android:textColor="@color/primary_purple" android:id="@id/otp_et6" android:layout_width="50.0dip" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1.0" android:lineSpacingExtra="12.0dip" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center" />
+18c18
+<         <TextView android:id="@id/enterPinButtonText" android:text="@string/next_button" style="@style/CustomButtonText" />
+---
+>         <TextView android:id="@id/enterPinButtonText" android:text="@string/upload_button" style="@style/CustomButtonText" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\fragment_upload_foruse.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\fragment_upload_foruse.xml"
+5c5
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_desc" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="43.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="43.0dip" android:text="@string/tap_next" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/tv_title" style="@style/OnboardingDesc" />
+---
+>     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_desc" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="36.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="36.0dip" android:text="@string/tap_next" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/tv_title" style="@style/OnboardingDesc" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\layout\\main_activity_onboarding.xml" "abtracetogether_1.0.1.apk_disassembled/res\\layout\\main_activity_onboarding.xml"
+4,9c4,14
+<     <androidx.appcompat.widget.AppCompatImageView android:id="@id/on_boarding_banner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" app:srcCompat="@drawable/ic_landing_illustration" style="@style/OnboardingImage" />
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_title" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginRight="60.0dip" android:text="@string/tv_onboarding_title" android:textAllCaps="true" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/on_boarding_banner" style="@style/OnboardingTitle" />
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_desc" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/tv_onboarding_desc" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/tv_title" style="@style/OnboardingDesc" />
+<     <FrameLayout android:id="@id/watermark_foot" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/btn_onboardingStart" app:layout_constraintTop_toBottomOf="@id/tv_desc">
+<         <include layout="@layout/watermark_foot" />
+<     </FrameLayout>
+---
+>     <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+>         <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+>             <androidx.appcompat.widget.AppCompatImageView android:id="@id/on_boarding_banner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" app:srcCompat="@drawable/ic_landing_illustration" style="@style/OnboardingImage" />
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_title" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginRight="60.0dip" android:text="@string/tv_onboarding_title" android:textAllCaps="true" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/on_boarding_banner" style="@style/OnboardingTitle" />
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_desc" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/tv_onboarding_desc" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/tv_title" style="@style/OnboardingDesc" />
+>             <FrameLayout android:id="@id/watermark_foot" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/tv_app_version" app:layout_constraintTop_toBottomOf="@id/tv_desc">
+>                 <include layout="@layout/watermark_foot" />
+>             </FrameLayout>
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/tv_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="96.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" style="@style/OnboardingDesc" />
+>         </androidx.constraintlayout.widget.ConstraintLayout>
+>     </ScrollView>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\AndroidManifest.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\AndroidManifest.xml"
+2c2
+< <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="3" android:versionName="1.0.0" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="ca.albertahealthservices.contacttracing" platformBuildVersionCode="29" platformBuildVersionName="10">
+---
+> <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="4" android:versionName="1.0.1" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="ca.albertahealthservices.contacttracing" platformBuildVersionCode="29" platformBuildVersionName="10">
+24a25
+>         <activity android:name="ca.albertahealthservices.contacttracing.RestartActivity" android:screenOrientation="portrait"/>
+Binary files abtracetogether_1.0.0.apk_disassembled/resources\classes2.dex and abtracetogether_1.0.1.apk_disassembled/resources\classes2.dex differ
+Binary files abtracetogether_1.0.0.apk_disassembled/resources\classes.dex and abtracetogether_1.0.1.apk_disassembled/resources\classes.dex differ
+Binary files abtracetogether_1.0.0.apk_disassembled/resources\META-INF\GOAAPP.RSA and abtracetogether_1.0.1.apk_disassembled/resources\META-INF\GOAAPP.RSA differ
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\META-INF\\GOAAPP.SF" "abtracetogether_1.0.1.apk_disassembled/resources\\META-INF\\GOAAPP.SF"
+3c3
+< SHA1-Digest-Manifest: Aekwipchn5eMg7VBWXvy8KNp9a0=
+---
+> SHA1-Digest-Manifest: 29Wq5MytiSl7C67I4hfjC9UA33g=
+26c26
+< SHA1-Digest: UPx4gs4Ji2P6ZAp9lQRzGwVICOE=
+---
+> SHA1-Digest: eRBmw60qxBz1+VxJ6Rkc8HWlqMU=
+117c117
+< SHA1-Digest: dKecx7C7WSZw0d87ppEb6mvLbfY=
+---
+> SHA1-Digest: wh6BwvzF2u+mh9rt6bI3j6lpTBA=
+147c147
+< SHA1-Digest: +o1kz6Dt8oJkRIC6jY+nv742TuM=
+---
+> SHA1-Digest: s2dV3wxEoivkqH55gpKvCUyykhc=
+596c596
+< SHA1-Digest: E07ThV0Dv5UWjmEGke51H/Bo+PI=
+---
+> SHA1-Digest: 5zCM/Kz15uRApqwdSiqQogA++Pk=
+696c696
+< SHA1-Digest: B9aJwXo3He+G3WxW5USAMeXcGVo=
+---
+> SHA1-Digest: uHnvXVpSyKSM1p1IX5t4mljXwyc=
+708c708
+< SHA1-Digest: S54FXKn9keYENGFzPfQo7TgMr5c=
+---
+> SHA1-Digest: mcLgoreb0H27BHD0Szkj+BpQNWc=
+919c919
+< SHA1-Digest: bojAqBprA1nrF7nsZH/T0Z7Lhi4=
+---
+> SHA1-Digest: oUD9ukbbea1z/Kdl5g41MO/KAw8=
+1261c1261
+< SHA1-Digest: D9Afw4udsAD8oG9kUc29bZjIeLI=
+---
+> SHA1-Digest: dXxE3iVHe9laeGgI/VpqcY2gUsM=
+1288c1288
+< SHA1-Digest: SwV8rLBvHeOXLZ4MKIqrhP9hyVg=
+---
+> SHA1-Digest: rlmvEcBCcHFM8q3VohezuO9Y7c0=
+1589c1589
+< SHA1-Digest: BTLeunzQiFOIOM9bat6GD9SctzU=
+---
+> SHA1-Digest: 9Y+uvrTikHN1c2LIYLOstNBgDYA=
+1613c1613
+< SHA1-Digest: LYhjoqwDjGR2Yb70/JyltoBtXiQ=
+---
+> SHA1-Digest: hBM9JBgzwTlHsJtSWIaN7Ids5vo=
+1682c1682
+< SHA1-Digest: GOAum9qrSSXvew2IcSXlbzrzI3A=
+---
+> SHA1-Digest: wdaOc6hY6TOeUcsTAQ5M0HXTZrI=
+1704c1704
+< SHA1-Digest: xi1344SEQjrhLK8sZh3QrRKiRvI=
+---
+> SHA1-Digest: MfFUkPjUo77ttnsJVP+B5J1fasE=
+1728c1728
+< SHA1-Digest: yWKnuZWDFuMACrxWzg3DnalF3mg=
+---
+> SHA1-Digest: 3ieD46zq+AjN7csj9lgPN1OMgdg=
+1920c1920
+< SHA1-Digest: Cv4G3ej+Id9xDkMpdpjqM61lbTI=
+---
+> SHA1-Digest: FuNaAp/2XurR7TvkumlUncv5XOk=
+2033c2033
+< SHA1-Digest: gsHhsjQGL4ZygME2vzQFSJfdbDg=
+---
+> SHA1-Digest: OyCOjX2AzIDjfWSpOM0eXhou0bY=
+2144c2144
+< SHA1-Digest: nNaZXePmME6ejsm1+f+S6sAMUGs=
+---
+> SHA1-Digest: SjmL7BiWS+81VO8jGhfTYQPySQc=
+2597c2597
+< SHA1-Digest: zYo2jeIK6PeZXBG9zNFVXWvrNKU=
+---
+> SHA1-Digest: ZRwcVQEju+nydqEjQu4N2vQ9lBs=
+2811c2811
+< SHA1-Digest: zhNfL4O3KIGWY3NxNryl7lpSTy8=
+---
+> SHA1-Digest: MU8wxG55LNNnznnJBoBs9RrLeg8=
+3012c3012
+< SHA1-Digest: 7AoQsKvoEsn9ndgfZcchi5PqAHU=
+---
+> SHA1-Digest: UL4V5go+XN5RKRZPluXrrVHC5WY=
+3088c3088
+< SHA1-Digest: YEcgzfB8QCpGeor+dYREOnr5Pew=
+---
+> SHA1-Digest: V5Q0EZ7SIikFEshXlwst7SFB02E=
+3109c3109
+< SHA1-Digest: pj978ICj/sYoR6mlGDwtGxPqbKU=
+---
+> SHA1-Digest: DEOt91sEJTR7sqsZFTgjuaFBAYQ=
+3171c3171
+< SHA1-Digest: NdhVAmwm9yGHG1/ir8tzem/sTVE=
+---
+> SHA1-Digest: 4aiQ2NXuacPkA4fzEYhuMymMZrM=
+3237c3237
+< SHA1-Digest: QqzQ7sNQN4FCWkqUc0S1gIghwkc=
+---
+> SHA1-Digest: UQxi5jY9Igltu1qePSjPS88K+io=
+3413c3413
+< SHA1-Digest: 9tTcMEdlhnHh2JZVp7xU7h3VY5o=
+---
+> SHA1-Digest: 5Yh6M/7zpzChCfI7c+f2vIYOtvU=
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\META-INF\\MANIFEST.MF" "abtracetogether_1.0.1.apk_disassembled/resources\\META-INF\\MANIFEST.MF"
+25c25
+< SHA1-Digest: i9njI+m6m49067WinDm9s2snEN0=
+---
+> SHA1-Digest: VZFGxvx+FOYohZ+lmlyxDRTmevg=
+116c116
+< SHA1-Digest: /8BQYp11l7W8+5Q7hwyMq+9NeDw=
+---
+> SHA1-Digest: eA7U6sdHw+prLAy8yd51JbEI5/4=
+146c146
+< SHA1-Digest: ds30ow41lXHK3fh06LWftOYEz14=
+---
+> SHA1-Digest: kP22T0P+PS74fcF5pePEgTW5iS8=
+595c595
+< SHA1-Digest: 2i3UxZGv+j90O2eWM42sBXuDz34=
+---
+> SHA1-Digest: PnPmvdxjh/ojBwa8vMRAjok5u5w=
+695c695
+< SHA1-Digest: fV1DYn+XgWqZeuuts4BjPZ4nc2E=
+---
+> SHA1-Digest: FLPXotxCUQj8UooEbyjk4z380MI=
+707c707
+< SHA1-Digest: jUebH4F9stw9WPu5joN3Cwh1HWo=
+---
+> SHA1-Digest: JI7UAC2X/pTiqvyTXqIMDEMnJ4w=
+918c918
+< SHA1-Digest: 7d2bhHgj+yaep5LCpQLCOyEk3Is=
+---
+> SHA1-Digest: 2CzuqaND09e/F7PzILa2tTV4Aac=
+1260c1260
+< SHA1-Digest: V7ltJVdE+DrWgoC5mEcR6Xspp+0=
+---
+> SHA1-Digest: 2ZEGWMsvAs7FPaCaPndMfdNlvPU=
+1287c1287
+< SHA1-Digest: 11FxBmH36SXbhJIbmeL682ZFOJg=
+---
+> SHA1-Digest: k86cZJBKxtMKABmbgOvwRSgRAio=
+1588c1588
+< SHA1-Digest: sfnWFIUI3t0NU5sZQuRc7y33t4A=
+---
+> SHA1-Digest: edK5Mp7zP9L9LBxJn4IocDQf0zY=
+1612c1612
+< SHA1-Digest: QSAmRK9MDRmElzUiPyg/qoi7T9o=
+---
+> SHA1-Digest: RuEFbPhDiFFI7XMYK+v2PhJUUUA=
+1681c1681
+< SHA1-Digest: iShAVTtWGw2d+V+DssQ/vkpt7RM=
+---
+> SHA1-Digest: +SdNHWvoCdJtqnTxM3fI4xXtM+U=
+1703c1703
+< SHA1-Digest: gMUPDxCihLQNxcf99b9zi9GXLv8=
+---
+> SHA1-Digest: gJ9sNVNEBBtulpmuOJJkFDspLWY=
+1727c1727
+< SHA1-Digest: M5jhbxQ/4dPChtGH+na/7PHiC+c=
+---
+> SHA1-Digest: 6B3v0SmnzlcpUDW17ZNCs1eh3pg=
+1919c1919
+< SHA1-Digest: CzdyWVvL79P85gCDoHJuorHExNo=
+---
+> SHA1-Digest: gKZIVhUnH92SvAvfmCo4jHbuH3k=
+2032c2032
+< SHA1-Digest: ecTvm4mDHi4bMpjQdzvPisiHvhc=
+---
+> SHA1-Digest: nNH6EDF/AMCDTEoAOHeL0ZkATbw=
+2143c2143
+< SHA1-Digest: 9XQH4Jo7IN38WkFOZjcinUQl9SI=
+---
+> SHA1-Digest: 6p7TKLPJVBSLMukb4TOjVHHuq90=
+2596c2596
+< SHA1-Digest: uG9nK0dmUitPAfvNNukWnDFYDTU=
+---
+> SHA1-Digest: wU04oCe0BBe1XRIOC/vGeZaB5Lg=
+2810c2810
+< SHA1-Digest: aWyGbrXuEWkRX+CNNNieVG2LY2g=
+---
+> SHA1-Digest: Q3atqXHHWeGHa2Q1bwR5zC1S/Uc=
+3011c3011
+< SHA1-Digest: VeHBSabb4lFM9gDHf8d4PjUtUiA=
+---
+> SHA1-Digest: D5aXvuY7+10bBkIEPhrtqBfMn8U=
+3087c3087
+< SHA1-Digest: PIN4IjG8ysNbrXv4a22+Lpc6DKc=
+---
+> SHA1-Digest: p8Z6HXIIPiI1dszKsu//SZMaCe0=
+3108c3108
+< SHA1-Digest: EabzDWHgOThYyJo7nKl01HsBpoM=
+---
+> SHA1-Digest: sCyiy6rOTAWDsqLtntDvh2niPxs=
+3170c3170
+< SHA1-Digest: BB/vEBOtXT6tTqSzdGztEDlt7gM=
+---
+> SHA1-Digest: VnyvT/erm2V030VhmBHbYbyWTtM=
+3236c3236
+< SHA1-Digest: reo+EexnrgDhwRHnZR0e6R+rRQQ=
+---
+> SHA1-Digest: mcS9jU2LHLhWoyxHQ9DO+2sXybk=
+3412c3412
+< SHA1-Digest: mTU4dZR9yZR/lpFWbSCJ/U+SdVE=
+---
+> SHA1-Digest: Evm+ExdYdwVDOYBeCi5W5M8tkyM=
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\fragment_home.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\fragment_home.xml"
+10c10,11
+<                     <androidx.appcompat.widget.AppCompatTextView android:id="@+id/tv_last_update" android:paddingLeft="13dp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_home_subtitle" style="@style/OnboardingDesc"/>
+---
+>                     <androidx.appcompat.widget.AppCompatTextView android:id="@+id/tv_last_update" android:paddingLeft="13dp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13dp" android:layout_marginBottom="0dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_home_subtitle" style="@style/OnboardingDesc"/>
+>                     <androidx.appcompat.widget.AppCompatTextView android:id="@+id/tv_app_version" android:paddingLeft="13dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_last_update" style="@style/OnboardingDesc"/>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\fragment_otp.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\fragment_otp.xml"
+9c9
+<         <LinearLayout android:orientation="vertical" android:id="@+id/middleLayout" android:paddingLeft="13dp" android:paddingRight="13dp" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/topLayout" app:layout_constraintVertical_weight="3">
+---
+>         <LinearLayout android:orientation="vertical" android:id="@+id/middleLayout" android:paddingLeft="14dp" android:paddingRight="14dp" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/topLayout" app:layout_constraintVertical_weight="3">
+11,16c11,16
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et1" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et2" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et3" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et4" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et5" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+<                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et6" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+---
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et1" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et2" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et3" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et4" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et5" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+>                 <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et6" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="phone" android:imeOptions="actionGo" android:textAlignment="center"/>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\fragment_register_number.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\fragment_register_number.xml"
+13a14
+>     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0dp" android:layout_marginBottom="22dp" app:layout_constraintBottom_toTopOf="@+id/footer" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" style="@style/OnboardingDesc"/>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\fragment_upload_enterpin.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\fragment_upload_enterpin.xml"
+7,12c7,12
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et1" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et2" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et3" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et4" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et5" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+<         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et6" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+---
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et1" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et2" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et3" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et4" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et5" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+>         <EditText android:textSize="48sp" android:textColor="@color/primary_purple" android:id="@+id/otp_et6" android:layout_width="50dp" android:layout_height="wrap_content" android:maxLength="1" android:layout_weight="1" android:lineSpacingExtra="12dp" android:inputType="textEmailAddress" android:imeOptions="actionGo" android:textAlignment="center"/>
+17c17
+<         <TextView android:id="@+id/enterPinButtonText" android:text="@string/next_button" style="@style/CustomButtonText"/>
+---
+>         <TextView android:id="@+id/enterPinButtonText" android:text="@string/upload_button" style="@style/CustomButtonText"/>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\fragment_upload_foruse.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\fragment_upload_foruse.xml"
+4c4
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_desc" android:paddingLeft="0dp" android:paddingRight="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="43dp" android:layout_marginTop="12dp" android:layout_marginRight="43dp" android:text="@string/tap_next" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_title" style="@style/OnboardingDesc"/>
+---
+>     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_desc" android:paddingLeft="0dp" android:paddingRight="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="36dp" android:layout_marginTop="12dp" android:layout_marginRight="36dp" android:text="@string/tap_next" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_title" style="@style/OnboardingDesc"/>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\layout\\main_activity_onboarding.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\layout\\main_activity_onboarding.xml"
+3,8c3,13
+<     <androidx.appcompat.widget.AppCompatImageView android:id="@+id/on_boarding_banner" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:scaleType="fitCenter" android:adjustViewBounds="true" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" app:srcCompat="@drawable/ic_landing_illustration" style="@style/OnboardingImage"/>
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_title" android:paddingLeft="0dp" android:paddingRight="0dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="60dp" android:layout_marginRight="60dp" android:text="@string/tv_onboarding_title" android:textAllCaps="true" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/on_boarding_banner" style="@style/OnboardingTitle"/>
+<     <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_desc" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:text="@string/tv_onboarding_desc" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_title" style="@style/OnboardingDesc"/>
+<     <FrameLayout android:id="@+id/watermark_foot" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@+id/btn_onboardingStart" app:layout_constraintTop_toBottomOf="@+id/tv_desc">
+<         <include layout="@layout/watermark_foot"/>
+<     </FrameLayout>
+---
+>     <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+>         <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+>             <androidx.appcompat.widget.AppCompatImageView android:id="@+id/on_boarding_banner" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:scaleType="fitCenter" android:adjustViewBounds="true" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" app:srcCompat="@drawable/ic_landing_illustration" style="@style/OnboardingImage"/>
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_title" android:paddingLeft="0dp" android:paddingRight="0dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="60dp" android:layout_marginRight="60dp" android:text="@string/tv_onboarding_title" android:textAllCaps="true" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/on_boarding_banner" style="@style/OnboardingTitle"/>
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_desc" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:text="@string/tv_onboarding_desc" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/tv_title" style="@style/OnboardingDesc"/>
+>             <FrameLayout android:id="@+id/watermark_foot" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@+id/tv_app_version" app:layout_constraintTop_toBottomOf="@+id/tv_desc">
+>                 <include layout="@layout/watermark_foot"/>
+>             </FrameLayout>
+>             <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@+id/tv_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0dp" android:layout_marginBottom="96dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" style="@style/OnboardingDesc"/>
+>         </androidx.constraintlayout.widget.ConstraintLayout>
+>     </ScrollView>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\values\\public.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\values\\public.xml"
+2036,2079c2036,2080
+<     <public type="id" name="tv_bluetooth" id="2131296649" />
+<     <public type="id" name="tv_desc" id="2131296650" />
+<     <public type="id" name="tv_desc_sub" id="2131296651" />
+<     <public type="id" name="tv_desc_sub_1" id="2131296652" />
+<     <public type="id" name="tv_desc_sub_2" id="2131296653" />
+<     <public type="id" name="tv_desc_sub_3" id="2131296654" />
+<     <public type="id" name="tv_error" id="2131296655" />
+<     <public type="id" name="tv_home_subtitle" id="2131296656" />
+<     <public type="id" name="tv_home_title" id="2131296657" />
+<     <public type="id" name="tv_last_update" id="2131296658" />
+<     <public type="id" name="tv_location" id="2131296659" />
+<     <public type="id" name="tv_note_1" id="2131296660" />
+<     <public type="id" name="tv_push" id="2131296661" />
+<     <public type="id" name="tv_step" id="2131296662" />
+<     <public type="id" name="tv_title" id="2131296663" />
+<     <public type="id" name="txpower" id="2131296664" />
+<     <public type="id" name="unchecked" id="2131296665" />
+<     <public type="id" name="uniform" id="2131296666" />
+<     <public type="id" name="unlabeled" id="2131296667" />
+<     <public type="id" name="up" id="2131296668" />
+<     <public type="id" name="uploadCompleteFragmentActionButton" id="2131296669" />
+<     <public type="id" name="uploadPageFragmentLoadingProgressBarFrame" id="2131296670" />
+<     <public type="id" name="useLogo" id="2131296671" />
+<     <public type="id" name="verifyCallerBackButton" id="2131296672" />
+<     <public type="id" name="verifyCallerFragmentActionButton" id="2131296673" />
+<     <public type="id" name="verifyCallerFragmentVerificationCode" id="2131296674" />
+<     <public type="id" name="version" id="2131296675" />
+<     <public type="id" name="view_announcement" id="2131296676" />
+<     <public type="id" name="view_complete" id="2131296677" />
+<     <public type="id" name="view_offset_helper" id="2131296678" />
+<     <public type="id" name="view_setup" id="2131296679" />
+<     <public type="id" name="visible" id="2131296680" />
+<     <public type="id" name="visible_removing_fragment_view_tag" id="2131296681" />
+<     <public type="id" name="watermark_foot" id="2131296682" />
+<     <public type="id" name="watermark_foot_label" id="2131296683" />
+<     <public type="id" name="watermark_foot_logo" id="2131296684" />
+<     <public type="id" name="webView" id="2131296685" />
+<     <public type="id" name="webview" id="2131296686" />
+<     <public type="id" name="webviewBackButton" id="2131296687" />
+<     <public type="id" name="webview_acknowledgement" id="2131296688" />
+<     <public type="id" name="withText" id="2131296689" />
+<     <public type="id" name="withinBounds" id="2131296690" />
+<     <public type="id" name="wrap" id="2131296691" />
+<     <public type="id" name="wrap_content" id="2131296692" />
+---
+>     <public type="id" name="tv_app_version" id="2131296649" />
+>     <public type="id" name="tv_bluetooth" id="2131296650" />
+>     <public type="id" name="tv_desc" id="2131296651" />
+>     <public type="id" name="tv_desc_sub" id="2131296652" />
+>     <public type="id" name="tv_desc_sub_1" id="2131296653" />
+>     <public type="id" name="tv_desc_sub_2" id="2131296654" />
+>     <public type="id" name="tv_desc_sub_3" id="2131296655" />
+>     <public type="id" name="tv_error" id="2131296656" />
+>     <public type="id" name="tv_home_subtitle" id="2131296657" />
+>     <public type="id" name="tv_home_title" id="2131296658" />
+>     <public type="id" name="tv_last_update" id="2131296659" />
+>     <public type="id" name="tv_location" id="2131296660" />
+>     <public type="id" name="tv_note_1" id="2131296661" />
+>     <public type="id" name="tv_push" id="2131296662" />
+>     <public type="id" name="tv_step" id="2131296663" />
+>     <public type="id" name="tv_title" id="2131296664" />
+>     <public type="id" name="txpower" id="2131296665" />
+>     <public type="id" name="unchecked" id="2131296666" />
+>     <public type="id" name="uniform" id="2131296667" />
+>     <public type="id" name="unlabeled" id="2131296668" />
+>     <public type="id" name="up" id="2131296669" />
+>     <public type="id" name="uploadCompleteFragmentActionButton" id="2131296670" />
+>     <public type="id" name="uploadPageFragmentLoadingProgressBarFrame" id="2131296671" />
+>     <public type="id" name="useLogo" id="2131296672" />
+>     <public type="id" name="verifyCallerBackButton" id="2131296673" />
+>     <public type="id" name="verifyCallerFragmentActionButton" id="2131296674" />
+>     <public type="id" name="verifyCallerFragmentVerificationCode" id="2131296675" />
+>     <public type="id" name="version" id="2131296676" />
+>     <public type="id" name="view_announcement" id="2131296677" />
+>     <public type="id" name="view_complete" id="2131296678" />
+>     <public type="id" name="view_offset_helper" id="2131296679" />
+>     <public type="id" name="view_setup" id="2131296680" />
+>     <public type="id" name="visible" id="2131296681" />
+>     <public type="id" name="visible_removing_fragment_view_tag" id="2131296682" />
+>     <public type="id" name="watermark_foot" id="2131296683" />
+>     <public type="id" name="watermark_foot_label" id="2131296684" />
+>     <public type="id" name="watermark_foot_logo" id="2131296685" />
+>     <public type="id" name="webView" id="2131296686" />
+>     <public type="id" name="webview" id="2131296687" />
+>     <public type="id" name="webviewBackButton" id="2131296688" />
+>     <public type="id" name="webview_acknowledgement" id="2131296689" />
+>     <public type="id" name="withText" id="2131296690" />
+>     <public type="id" name="withinBounds" id="2131296691" />
+>     <public type="id" name="wrap" id="2131296692" />
+>     <public type="id" name="wrap_content" id="2131296693" />
+2436,2480c2437,2483
+<     <public type="string" name="search_menu_title" id="2131820732" />
+<     <public type="string" name="see_connections" id="2131820733" />
+<     <public type="string" name="send_otp" id="2131820734" />
+<     <public type="string" name="service_not_ok_action" id="2131820735" />
+<     <public type="string" name="service_not_ok_body" id="2131820736" />
+<     <public type="string" name="service_not_ok_title" id="2131820737" />
+<     <public type="string" name="service_ok_body" id="2131820738" />
+<     <public type="string" name="service_ok_title" id="2131820739" />
+<     <public type="string" name="setup_app_permission" id="2131820740" />
+<     <public type="string" name="setup_app_permission_title" id="2131820741" />
+<     <public type="string" name="setup_incomplete" id="2131820742" />
+<     <public type="string" name="setup_step" id="2131820743" />
+<     <public type="string" name="share_message" id="2131820744" />
+<     <public type="string" name="share_this_app" id="2131820745" />
+<     <public type="string" name="status_bar_notification_info_overflow" id="2131820746" />
+<     <public type="string" name="step_one" id="2131820747" />
+<     <public type="string" name="step_two" id="2131820748" />
+<     <public type="string" name="stop" id="2131820749" />
+<     <public type="string" name="submit" id="2131820750" />
+<     <public type="string" name="submit_button" id="2131820751" />
+<     <public type="string" name="tap_next" id="2131820752" />
+<     <public type="string" name="timeout_error" id="2131820753" />
+<     <public type="string" name="title_settings_dialog" id="2131820754" />
+<     <public type="string" name="too_many_requests" id="2131820755" />
+<     <public type="string" name="turn_off_battery" id="2131820756" />
+<     <public type="string" name="tv_howitworks_explanation" id="2131820757" />
+<     <public type="string" name="tv_howitworks_title" id="2131820758" />
+<     <public type="string" name="tv_onboarding_desc" id="2131820759" />
+<     <public type="string" name="tv_onboarding_desc_sub" id="2131820760" />
+<     <public type="string" name="tv_onboarding_title" id="2131820761" />
+<     <public type="string" name="unexpected_error" id="2131820762" />
+<     <public type="string" name="unknown_error" id="2131820763" />
+<     <public type="string" name="upload_agreement" id="2131820764" />
+<     <public type="string" name="upload_button" id="2131820765" />
+<     <public type="string" name="upload_complete_desc" id="2131820766" />
+<     <public type="string" name="upload_complete_title" id="2131820767" />
+<     <public type="string" name="upload_confirm" id="2131820768" />
+<     <public type="string" name="upload_contact" id="2131820769" />
+<     <public type="string" name="upload_data" id="2131820770" />
+<     <public type="string" name="verification_code" id="2131820771" />
+<     <public type="string" name="verification_failed" id="2131820772" />
+<     <public type="string" name="verify" id="2131820773" />
+<     <public type="string" name="view_faq" id="2131820774" />
+<     <public type="string" name="view_privacy" id="2131820775" />
+<     <public type="string" name="wrong_number" id="2131820776" />
+---
+>     <public type="string" name="restart_msg" id="2131820732" />
+>     <public type="string" name="search_menu_title" id="2131820733" />
+>     <public type="string" name="see_connections" id="2131820734" />
+>     <public type="string" name="send_otp" id="2131820735" />
+>     <public type="string" name="service_not_ok_action" id="2131820736" />
+>     <public type="string" name="service_not_ok_body" id="2131820737" />
+>     <public type="string" name="service_not_ok_title" id="2131820738" />
+>     <public type="string" name="service_ok_body" id="2131820739" />
+>     <public type="string" name="service_ok_title" id="2131820740" />
+>     <public type="string" name="setup_app_permission" id="2131820741" />
+>     <public type="string" name="setup_app_permission_title" id="2131820742" />
+>     <public type="string" name="setup_incomplete" id="2131820743" />
+>     <public type="string" name="setup_step" id="2131820744" />
+>     <public type="string" name="share_message" id="2131820745" />
+>     <public type="string" name="share_this_app" id="2131820746" />
+>     <public type="string" name="status_bar_notification_info_overflow" id="2131820747" />
+>     <public type="string" name="step_one" id="2131820748" />
+>     <public type="string" name="step_two" id="2131820749" />
+>     <public type="string" name="stop" id="2131820750" />
+>     <public type="string" name="submit" id="2131820751" />
+>     <public type="string" name="submit_button" id="2131820752" />
+>     <public type="string" name="tap_next" id="2131820753" />
+>     <public type="string" name="timeout_error" id="2131820754" />
+>     <public type="string" name="title_settings_dialog" id="2131820755" />
+>     <public type="string" name="too_many_requests" id="2131820756" />
+>     <public type="string" name="turn_off_battery" id="2131820757" />
+>     <public type="string" name="tv_howitworks_explanation" id="2131820758" />
+>     <public type="string" name="tv_howitworks_title" id="2131820759" />
+>     <public type="string" name="tv_onboarding_desc" id="2131820760" />
+>     <public type="string" name="tv_onboarding_desc_sub" id="2131820761" />
+>     <public type="string" name="tv_onboarding_title" id="2131820762" />
+>     <public type="string" name="tv_uuid_retry_error" id="2131820763" />
+>     <public type="string" name="unexpected_error" id="2131820764" />
+>     <public type="string" name="unknown_error" id="2131820765" />
+>     <public type="string" name="upload_agreement" id="2131820766" />
+>     <public type="string" name="upload_button" id="2131820767" />
+>     <public type="string" name="upload_complete_desc" id="2131820768" />
+>     <public type="string" name="upload_complete_title" id="2131820769" />
+>     <public type="string" name="upload_confirm" id="2131820770" />
+>     <public type="string" name="upload_contact" id="2131820771" />
+>     <public type="string" name="upload_data" id="2131820772" />
+>     <public type="string" name="verification_code" id="2131820773" />
+>     <public type="string" name="verification_failed" id="2131820774" />
+>     <public type="string" name="verify" id="2131820775" />
+>     <public type="string" name="view_faq" id="2131820776" />
+>     <public type="string" name="view_privacy" id="2131820777" />
+>     <public type="string" name="wrong_number" id="2131820778" />
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\values\\strings.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\values\\strings.xml"
+34c34
+<     <string name="ahs_only">For use only if contacted by alberta health services</string>
+---
+>     <string name="ahs_only">HAS ALBERTA HEALTH SERVICES ASKED YOU TO UPLOAD  YOUR DATA?</string>
+68c68
+<     <string name="enter_pin_desc">Enter the one-time PIN texted to you to upload your data to AHS.</string>
+---
+>     <string name="enter_pin_desc">Alberta Health Services will send you a one-time PIN so you can upload your data.</string>
+190a191
+>     <string name="restart_msg">Unfortunately something went wrong.</string>
+211c212
+<     <string name="tap_next">Don\'t tap \'Next\' unless you\'ve receive a call from Alberta Health Services.</string>
+---
+>     <string name="tap_next">Don’t tap ‘Next’ unless a contact tracer from Alberta Health Services has instructed you to do so.</string>
+216c217
+<     <string name="tv_howitworks_explanation">Using your phone’s Bluetooth, your phone detects when it’s near another phone running ABTraceTogether. Your phone securely logs when you have been in close contact with other app users. If were in close contact with someone who later tests positive with COVID-19, you will receive a call from Alberta Health Services. AHS will provide you with information about your risk of exposure and appropriate actions you should take. AHS will only contact you through an AHS verified phone number.</string>
+---
+>     <string name="tv_howitworks_explanation">Using your phone’s Bluetooth, your phone detects when it’s near another phone running ABTraceTogether. Your phone securely logs when you have been in close contact with other app users. If you were in close contact with someone who later tests positive with COVID-19, you will receive a call from Alberta Health Services. AHS will provide you with information about your risk of exposure and appropriate actions you should take. AHS will only contact you through an AHS verified phone number.</string>
+221c222,223
+<     <string name="unexpected_error">An unexpected error has occurred. Please contact support.</string>
+---
+>     <string name="tv_uuid_retry_error">Unfortunately something went wrong. Please uninstall this application from your device and reinstall it from the app store to correct this error.</string>
+>     <string name="unexpected_error">Unfortunately something went wrong. Please try again.</string>
+diff "abtracetogether_1.0.0.apk_disassembled/resources\\res\\values\\styles.xml" "abtracetogether_1.0.1.apk_disassembled/resources\\res\\values\\styles.xml"
+1622c1622
+<         <item name="android:textSize">48sp</item>
+---
+>         <item name="android:textSize">56sp</item>
+1625c1625
+<         <item name="android:letterSpacing">0.1</item>
+---
+>         <item name="android:letterSpacing">0.2</item>
+diff "abtracetogether_1.0.0.apk_disassembled/res\\values\\ids.xml" "abtracetogether_1.0.1.apk_disassembled/res\\values\\ids.xml"
+293a294
+>     <item type="id" name="tv_app_version" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\values\\public.xml" "abtracetogether_1.0.1.apk_disassembled/res\\values\\public.xml"
+2036,2079c2036,2080
+<     <public type="id" name="tv_bluetooth" id="0x7f090189" />
+<     <public type="id" name="tv_desc" id="0x7f09018a" />
+<     <public type="id" name="tv_desc_sub" id="0x7f09018b" />
+<     <public type="id" name="tv_desc_sub_1" id="0x7f09018c" />
+<     <public type="id" name="tv_desc_sub_2" id="0x7f09018d" />
+<     <public type="id" name="tv_desc_sub_3" id="0x7f09018e" />
+<     <public type="id" name="tv_error" id="0x7f09018f" />
+<     <public type="id" name="tv_home_subtitle" id="0x7f090190" />
+<     <public type="id" name="tv_home_title" id="0x7f090191" />
+<     <public type="id" name="tv_last_update" id="0x7f090192" />
+<     <public type="id" name="tv_location" id="0x7f090193" />
+<     <public type="id" name="tv_note_1" id="0x7f090194" />
+<     <public type="id" name="tv_push" id="0x7f090195" />
+<     <public type="id" name="tv_step" id="0x7f090196" />
+<     <public type="id" name="tv_title" id="0x7f090197" />
+<     <public type="id" name="txpower" id="0x7f090198" />
+<     <public type="id" name="unchecked" id="0x7f090199" />
+<     <public type="id" name="uniform" id="0x7f09019a" />
+<     <public type="id" name="unlabeled" id="0x7f09019b" />
+<     <public type="id" name="up" id="0x7f09019c" />
+<     <public type="id" name="uploadCompleteFragmentActionButton" id="0x7f09019d" />
+<     <public type="id" name="uploadPageFragmentLoadingProgressBarFrame" id="0x7f09019e" />
+<     <public type="id" name="useLogo" id="0x7f09019f" />
+<     <public type="id" name="verifyCallerBackButton" id="0x7f0901a0" />
+<     <public type="id" name="verifyCallerFragmentActionButton" id="0x7f0901a1" />
+<     <public type="id" name="verifyCallerFragmentVerificationCode" id="0x7f0901a2" />
+<     <public type="id" name="version" id="0x7f0901a3" />
+<     <public type="id" name="view_announcement" id="0x7f0901a4" />
+<     <public type="id" name="view_complete" id="0x7f0901a5" />
+<     <public type="id" name="view_offset_helper" id="0x7f0901a6" />
+<     <public type="id" name="view_setup" id="0x7f0901a7" />
+<     <public type="id" name="visible" id="0x7f0901a8" />
+<     <public type="id" name="visible_removing_fragment_view_tag" id="0x7f0901a9" />
+<     <public type="id" name="watermark_foot" id="0x7f0901aa" />
+<     <public type="id" name="watermark_foot_label" id="0x7f0901ab" />
+<     <public type="id" name="watermark_foot_logo" id="0x7f0901ac" />
+<     <public type="id" name="webView" id="0x7f0901ad" />
+<     <public type="id" name="webview" id="0x7f0901ae" />
+<     <public type="id" name="webviewBackButton" id="0x7f0901af" />
+<     <public type="id" name="webview_acknowledgement" id="0x7f0901b0" />
+<     <public type="id" name="withText" id="0x7f0901b1" />
+<     <public type="id" name="withinBounds" id="0x7f0901b2" />
+<     <public type="id" name="wrap" id="0x7f0901b3" />
+<     <public type="id" name="wrap_content" id="0x7f0901b4" />
+---
+>     <public type="id" name="tv_app_version" id="0x7f090189" />
+>     <public type="id" name="tv_bluetooth" id="0x7f09018a" />
+>     <public type="id" name="tv_desc" id="0x7f09018b" />
+>     <public type="id" name="tv_desc_sub" id="0x7f09018c" />
+>     <public type="id" name="tv_desc_sub_1" id="0x7f09018d" />
+>     <public type="id" name="tv_desc_sub_2" id="0x7f09018e" />
+>     <public type="id" name="tv_desc_sub_3" id="0x7f09018f" />
+>     <public type="id" name="tv_error" id="0x7f090190" />
+>     <public type="id" name="tv_home_subtitle" id="0x7f090191" />
+>     <public type="id" name="tv_home_title" id="0x7f090192" />
+>     <public type="id" name="tv_last_update" id="0x7f090193" />
+>     <public type="id" name="tv_location" id="0x7f090194" />
+>     <public type="id" name="tv_note_1" id="0x7f090195" />
+>     <public type="id" name="tv_push" id="0x7f090196" />
+>     <public type="id" name="tv_step" id="0x7f090197" />
+>     <public type="id" name="tv_title" id="0x7f090198" />
+>     <public type="id" name="txpower" id="0x7f090199" />
+>     <public type="id" name="unchecked" id="0x7f09019a" />
+>     <public type="id" name="uniform" id="0x7f09019b" />
+>     <public type="id" name="unlabeled" id="0x7f09019c" />
+>     <public type="id" name="up" id="0x7f09019d" />
+>     <public type="id" name="uploadCompleteFragmentActionButton" id="0x7f09019e" />
+>     <public type="id" name="uploadPageFragmentLoadingProgressBarFrame" id="0x7f09019f" />
+>     <public type="id" name="useLogo" id="0x7f0901a0" />
+>     <public type="id" name="verifyCallerBackButton" id="0x7f0901a1" />
+>     <public type="id" name="verifyCallerFragmentActionButton" id="0x7f0901a2" />
+>     <public type="id" name="verifyCallerFragmentVerificationCode" id="0x7f0901a3" />
+>     <public type="id" name="version" id="0x7f0901a4" />
+>     <public type="id" name="view_announcement" id="0x7f0901a5" />
+>     <public type="id" name="view_complete" id="0x7f0901a6" />
+>     <public type="id" name="view_offset_helper" id="0x7f0901a7" />
+>     <public type="id" name="view_setup" id="0x7f0901a8" />
+>     <public type="id" name="visible" id="0x7f0901a9" />
+>     <public type="id" name="visible_removing_fragment_view_tag" id="0x7f0901aa" />
+>     <public type="id" name="watermark_foot" id="0x7f0901ab" />
+>     <public type="id" name="watermark_foot_label" id="0x7f0901ac" />
+>     <public type="id" name="watermark_foot_logo" id="0x7f0901ad" />
+>     <public type="id" name="webView" id="0x7f0901ae" />
+>     <public type="id" name="webview" id="0x7f0901af" />
+>     <public type="id" name="webviewBackButton" id="0x7f0901b0" />
+>     <public type="id" name="webview_acknowledgement" id="0x7f0901b1" />
+>     <public type="id" name="withText" id="0x7f0901b2" />
+>     <public type="id" name="withinBounds" id="0x7f0901b3" />
+>     <public type="id" name="wrap" id="0x7f0901b4" />
+>     <public type="id" name="wrap_content" id="0x7f0901b5" />
+2436,2480c2437,2483
+<     <public type="string" name="search_menu_title" id="0x7f1100bc" />
+<     <public type="string" name="see_connections" id="0x7f1100bd" />
+<     <public type="string" name="send_otp" id="0x7f1100be" />
+<     <public type="string" name="service_not_ok_action" id="0x7f1100bf" />
+<     <public type="string" name="service_not_ok_body" id="0x7f1100c0" />
+<     <public type="string" name="service_not_ok_title" id="0x7f1100c1" />
+<     <public type="string" name="service_ok_body" id="0x7f1100c2" />
+<     <public type="string" name="service_ok_title" id="0x7f1100c3" />
+<     <public type="string" name="setup_app_permission" id="0x7f1100c4" />
+<     <public type="string" name="setup_app_permission_title" id="0x7f1100c5" />
+<     <public type="string" name="setup_incomplete" id="0x7f1100c6" />
+<     <public type="string" name="setup_step" id="0x7f1100c7" />
+<     <public type="string" name="share_message" id="0x7f1100c8" />
+<     <public type="string" name="share_this_app" id="0x7f1100c9" />
+<     <public type="string" name="status_bar_notification_info_overflow" id="0x7f1100ca" />
+<     <public type="string" name="step_one" id="0x7f1100cb" />
+<     <public type="string" name="step_two" id="0x7f1100cc" />
+<     <public type="string" name="stop" id="0x7f1100cd" />
+<     <public type="string" name="submit" id="0x7f1100ce" />
+<     <public type="string" name="submit_button" id="0x7f1100cf" />
+<     <public type="string" name="tap_next" id="0x7f1100d0" />
+<     <public type="string" name="timeout_error" id="0x7f1100d1" />
+<     <public type="string" name="title_settings_dialog" id="0x7f1100d2" />
+<     <public type="string" name="too_many_requests" id="0x7f1100d3" />
+<     <public type="string" name="turn_off_battery" id="0x7f1100d4" />
+<     <public type="string" name="tv_howitworks_explanation" id="0x7f1100d5" />
+<     <public type="string" name="tv_howitworks_title" id="0x7f1100d6" />
+<     <public type="string" name="tv_onboarding_desc" id="0x7f1100d7" />
+<     <public type="string" name="tv_onboarding_desc_sub" id="0x7f1100d8" />
+<     <public type="string" name="tv_onboarding_title" id="0x7f1100d9" />
+<     <public type="string" name="unexpected_error" id="0x7f1100da" />
+<     <public type="string" name="unknown_error" id="0x7f1100db" />
+<     <public type="string" name="upload_agreement" id="0x7f1100dc" />
+<     <public type="string" name="upload_button" id="0x7f1100dd" />
+<     <public type="string" name="upload_complete_desc" id="0x7f1100de" />
+<     <public type="string" name="upload_complete_title" id="0x7f1100df" />
+<     <public type="string" name="upload_confirm" id="0x7f1100e0" />
+<     <public type="string" name="upload_contact" id="0x7f1100e1" />
+<     <public type="string" name="upload_data" id="0x7f1100e2" />
+<     <public type="string" name="verification_code" id="0x7f1100e3" />
+<     <public type="string" name="verification_failed" id="0x7f1100e4" />
+<     <public type="string" name="verify" id="0x7f1100e5" />
+<     <public type="string" name="view_faq" id="0x7f1100e6" />
+<     <public type="string" name="view_privacy" id="0x7f1100e7" />
+<     <public type="string" name="wrong_number" id="0x7f1100e8" />
+---
+>     <public type="string" name="restart_msg" id="0x7f1100bc" />
+>     <public type="string" name="search_menu_title" id="0x7f1100bd" />
+>     <public type="string" name="see_connections" id="0x7f1100be" />
+>     <public type="string" name="send_otp" id="0x7f1100bf" />
+>     <public type="string" name="service_not_ok_action" id="0x7f1100c0" />
+>     <public type="string" name="service_not_ok_body" id="0x7f1100c1" />
+>     <public type="string" name="service_not_ok_title" id="0x7f1100c2" />
+>     <public type="string" name="service_ok_body" id="0x7f1100c3" />
+>     <public type="string" name="service_ok_title" id="0x7f1100c4" />
+>     <public type="string" name="setup_app_permission" id="0x7f1100c5" />
+>     <public type="string" name="setup_app_permission_title" id="0x7f1100c6" />
+>     <public type="string" name="setup_incomplete" id="0x7f1100c7" />
+>     <public type="string" name="setup_step" id="0x7f1100c8" />
+>     <public type="string" name="share_message" id="0x7f1100c9" />
+>     <public type="string" name="share_this_app" id="0x7f1100ca" />
+>     <public type="string" name="status_bar_notification_info_overflow" id="0x7f1100cb" />
+>     <public type="string" name="step_one" id="0x7f1100cc" />
+>     <public type="string" name="step_two" id="0x7f1100cd" />
+>     <public type="string" name="stop" id="0x7f1100ce" />
+>     <public type="string" name="submit" id="0x7f1100cf" />
+>     <public type="string" name="submit_button" id="0x7f1100d0" />
+>     <public type="string" name="tap_next" id="0x7f1100d1" />
+>     <public type="string" name="timeout_error" id="0x7f1100d2" />
+>     <public type="string" name="title_settings_dialog" id="0x7f1100d3" />
+>     <public type="string" name="too_many_requests" id="0x7f1100d4" />
+>     <public type="string" name="turn_off_battery" id="0x7f1100d5" />
+>     <public type="string" name="tv_howitworks_explanation" id="0x7f1100d6" />
+>     <public type="string" name="tv_howitworks_title" id="0x7f1100d7" />
+>     <public type="string" name="tv_onboarding_desc" id="0x7f1100d8" />
+>     <public type="string" name="tv_onboarding_desc_sub" id="0x7f1100d9" />
+>     <public type="string" name="tv_onboarding_title" id="0x7f1100da" />
+>     <public type="string" name="tv_uuid_retry_error" id="0x7f1100db" />
+>     <public type="string" name="unexpected_error" id="0x7f1100dc" />
+>     <public type="string" name="unknown_error" id="0x7f1100dd" />
+>     <public type="string" name="upload_agreement" id="0x7f1100de" />
+>     <public type="string" name="upload_button" id="0x7f1100df" />
+>     <public type="string" name="upload_complete_desc" id="0x7f1100e0" />
+>     <public type="string" name="upload_complete_title" id="0x7f1100e1" />
+>     <public type="string" name="upload_confirm" id="0x7f1100e2" />
+>     <public type="string" name="upload_contact" id="0x7f1100e3" />
+>     <public type="string" name="upload_data" id="0x7f1100e4" />
+>     <public type="string" name="verification_code" id="0x7f1100e5" />
+>     <public type="string" name="verification_failed" id="0x7f1100e6" />
+>     <public type="string" name="verify" id="0x7f1100e7" />
+>     <public type="string" name="view_faq" id="0x7f1100e8" />
+>     <public type="string" name="view_privacy" id="0x7f1100e9" />
+>     <public type="string" name="wrong_number" id="0x7f1100ea" />
+diff "abtracetogether_1.0.0.apk_disassembled/res\\values\\strings.xml" "abtracetogether_1.0.1.apk_disassembled/res\\values\\strings.xml"
+34c34
+<     <string name="ahs_only">For use only if contacted by alberta health services</string>
+---
+>     <string name="ahs_only">HAS ALBERTA HEALTH SERVICES ASKED YOU TO UPLOAD  YOUR DATA?</string>
+68c68
+<     <string name="enter_pin_desc">Enter the one-time PIN texted to you to upload your data to AHS.</string>
+---
+>     <string name="enter_pin_desc">Alberta Health Services will send you a one-time PIN so you can upload your data.</string>
+190a191
+>     <string name="restart_msg">Unfortunately something went wrong.</string>
+213c214
+<     <string name="tap_next">"Don't tap 'Next' unless you've receive a call from Alberta Health Services."</string>
+---
+>     <string name="tap_next">Don’t tap ‘Next’ unless a contact tracer from Alberta Health Services has instructed you to do so.</string>
+218c219
+<     <string name="tv_howitworks_explanation">Using your phone’s Bluetooth, your phone detects when it’s near another phone running ABTraceTogether. Your phone securely logs when you have been in close contact with other app users. If were in close contact with someone who later tests positive with COVID-19, you will receive a call from Alberta Health Services. AHS will provide you with information about your risk of exposure and appropriate actions you should take. AHS will only contact you through an AHS verified phone number.</string>
+---
+>     <string name="tv_howitworks_explanation">Using your phone’s Bluetooth, your phone detects when it’s near another phone running ABTraceTogether. Your phone securely logs when you have been in close contact with other app users. If you were in close contact with someone who later tests positive with COVID-19, you will receive a call from Alberta Health Services. AHS will provide you with information about your risk of exposure and appropriate actions you should take. AHS will only contact you through an AHS verified phone number.</string>
+223c224,225
+<     <string name="unexpected_error">An unexpected error has occurred. Please contact support.</string>
+---
+>     <string name="tv_uuid_retry_error">Unfortunately something went wrong. Please uninstall this application from your device and reinstall it from the app store to correct this error.</string>
+>     <string name="unexpected_error">Unfortunately something went wrong. Please try again.</string>
+diff "abtracetogether_1.0.0.apk_disassembled/res\\values\\styles.xml" "abtracetogether_1.0.1.apk_disassembled/res\\values\\styles.xml"
+1515c1515
+<         <item name="android:textSize">48.0sp</item>
+---
+>         <item name="android:textSize">56.0sp</item>
+1518c1518
+<         <item name="android:letterSpacing">0.1</item>
+---
+>         <item name="android:letterSpacing">0.2</item>
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\activity\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\activity\\ktx\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\activity\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\activity\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\appcompat\\resources\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\appcompat\\resources\\R.java"
+174c174
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\appcompat\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\appcompat\\R.java"
+794,797c794,797
+<         public static final int unchecked = 2131296665;
+<         public static final int uniform = 2131296666;
+<         public static final int up = 2131296668;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int unchecked = 2131296666;
+>         public static final int uniform = 2131296667;
+>         public static final int up = 2131296669;
+>         public static final int wrap_content = 2131296693;
+900,901c900,901
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\asynclayoutinflater\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\asynclayoutinflater\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\constraintlayout\\widget\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\constraintlayout\\widget\\R.java"
+82c82
+<         public static final int wrap = 2131296691;
+---
+>         public static final int wrap = 2131296692;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\coordinatorlayout\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\coordinatorlayout\\R.java"
+189c189
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\core\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\core\\ktx\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\core\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\core\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\customview\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\customview\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\drawerlayout\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\drawerlayout\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\fragment\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\fragment\\ktx\\R.java"
+161c161
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+---
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+188c188
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\fragment\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\fragment\\R.java"
+161c161
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+---
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+188c188
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\legacy\\coreui\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\legacy\\coreui\\R.java"
+149c149
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\legacy\\coreutils\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\legacy\\coreutils\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\legacy\\v4\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\legacy\\v4\\R.java"
+171c171
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\lifecycle\\extensions\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\lifecycle\\extensions\\R.java"
+161c161
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+---
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+188c188
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\loader\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\loader\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\media\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\media\\R.java"
+155c155
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\common\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\common\\ktx\\R.java"
+145c145
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\common\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\common\\R.java"
+145c145
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\fragment\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\fragment\\ktx\\R.java"
+182c182
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+---
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+209c209
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\fragment\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\fragment\\R.java"
+182c182
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+---
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+209c209
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\ktx\\R.java"
+192c192
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\R.java"
+192c192
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\ui\\ktx\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\ui\\ktx\\R.java"
+1209,1214c1209,1214
+<         public static final int uniform = 2131296666;
+<         public static final int unlabeled = 2131296667;
+<         public static final int up = 2131296668;
+<         public static final int view_offset_helper = 2131296678;
+<         public static final int visible = 2131296680;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int uniform = 2131296667;
+>         public static final int unlabeled = 2131296668;
+>         public static final int up = 2131296669;
+>         public static final int view_offset_helper = 2131296679;
+>         public static final int visible = 2131296681;
+>         public static final int wrap_content = 2131296693;
+1355,1356c1355,1356
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\navigation\\ui\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\navigation\\ui\\R.java"
+1209,1214c1209,1214
+<         public static final int uniform = 2131296666;
+<         public static final int unlabeled = 2131296667;
+<         public static final int up = 2131296668;
+<         public static final int view_offset_helper = 2131296678;
+<         public static final int visible = 2131296680;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int uniform = 2131296667;
+>         public static final int unlabeled = 2131296668;
+>         public static final int up = 2131296669;
+>         public static final int view_offset_helper = 2131296679;
+>         public static final int visible = 2131296681;
+>         public static final int wrap_content = 2131296693;
+1355,1356c1355,1356
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\recyclerview\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\recyclerview\\R.java"
+190c190
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\room\\rxjava2\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\room\\rxjava2\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\slidingpanelayout\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\slidingpanelayout\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\swiperefreshlayout\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\swiperefreshlayout\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\transition\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\transition\\R.java"
+143c143
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\vectordrawable\\animated\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\vectordrawable\\animated\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\vectordrawable\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\vectordrawable\\R.java"
+173c173
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\viewpager2\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\viewpager2\\R.java"
+190c190
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\androidx\\viewpager\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\androidx\\viewpager\\R.java"
+133c133
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\api\\Request$runRequest$2$listener$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\api\\Request$runRequest$2$listener$1.java"
+48,49c48,49
+<     /* JADX WARNING: Code restructure failed: missing block: B:17:0x009f, code lost:
+<         if (r8 != null) goto L_0x00a3;
+---
+>     /* JADX WARNING: Code restructure failed: missing block: B:17:0x009d, code lost:
+>         if (r8 != null) goto L_0x00a1;
+55,56c55
+<         String str2 = "Request.onFailure url=";
+<         sb.append(str2);
+---
+>         sb.append("Request.onFailure url=");
+58,59c57,58
+<         String str3 = " -  response=";
+<         sb.append(str3);
+---
+>         String str2 = " -  response=";
+>         sb.append(str2);
+61,62c60,61
+<         String str4 = "Request";
+<         companion.d(str4, sb.toString());
+---
+>         String str3 = "Request";
+>         companion.d(str3, sb.toString());
+64a64,65
+>         sb2.append("Request.onFailure request=");
+>         sb2.append(this.$request);
+66,67d66
+<         sb2.append(this.$request.getUrl());
+<         sb2.append(str3);
+76c75
+<             companion3.d(str4, sb3.toString());
+---
+>             companion3.d(str3, sb3.toString());
+88c87
+<         String str5 = "";
+---
+>         String str4 = "";
+92c91
+<         str = str5;
+---
+>         str = str4;
+97c96
+<                 str5 = errorStatusCode;
+---
+>                 str4 = errorStatusCode;
+100c99
+<         Response response = new Response(valueOf, responseText, jSONObject2, stringForErrorCode, str5);
+---
+>         Response response = new Response(valueOf, responseText, jSONObject2, stringForErrorCode, str4);
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\BuildConfig.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\BuildConfig.java"
+15c15
+<     public static final String GITHASH = "ec489ae";
+---
+>     public static final String GITHASH = "395b2cf";
+33,34c33,34
+<     public static final int VERSION_CODE = 3;
+<     public static final String VERSION_NAME = "1.0.0";
+---
+>     public static final int VERSION_CODE = 4;
+>     public static final String VERSION_NAME = "1.0.1";
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment$getUploadToken$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment$getUploadToken$1.java"
+25c25
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.fragment.EnterPinFragment$getUploadToken$1", f = "EnterPinFragment.kt", i = {0, 0, 0}, l = {122}, m = "invokeSuspend", n = {"$this$launch", "myParentFragment", "queryParams"}, s = {"L$0", "L$1", "L$2"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.fragment.EnterPinFragment$getUploadToken$1", f = "EnterPinFragment.kt", i = {0, 0, 0}, l = {125}, m = "invokeSuspend", n = {"$this$launch", "myParentFragment", "queryParams"}, s = {"L$0", "L$1", "L$2"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment.java"
+241,242c241,243
+<         Intrinsics.checkExpressionValueIsNotNull(linearLayout, "enterPinActionButton");
+<         linearLayout.setEnabled(false);
+---
+>         if (linearLayout != null) {
+>             linearLayout.setEnabled(false);
+>         }
+274,276c275,279
+<         EditText editText8 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+<         Intrinsics.checkExpressionValueIsNotNull(editText8, str);
+<         editText7.addTextChangedListener(new OTPTextWatcher(this, editText8));
+---
+>         if (editText7 != null) {
+>             EditText editText8 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+>             Intrinsics.checkExpressionValueIsNotNull(editText8, str);
+>             editText7.addTextChangedListener(new OTPTextWatcher(this, editText8));
+>         }
+278,280c281,285
+<         EditText editText10 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+<         Intrinsics.checkExpressionValueIsNotNull(editText10, str2);
+<         editText9.addTextChangedListener(new OTPTextWatcher(this, editText10));
+---
+>         if (editText9 != null) {
+>             EditText editText10 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+>             Intrinsics.checkExpressionValueIsNotNull(editText10, str2);
+>             editText9.addTextChangedListener(new OTPTextWatcher(this, editText10));
+>         }
+282,284c287,291
+<         EditText editText12 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+<         Intrinsics.checkExpressionValueIsNotNull(editText12, str3);
+<         editText11.addTextChangedListener(new OTPTextWatcher(this, editText12));
+---
+>         if (editText11 != null) {
+>             EditText editText12 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+>             Intrinsics.checkExpressionValueIsNotNull(editText12, str3);
+>             editText11.addTextChangedListener(new OTPTextWatcher(this, editText12));
+>         }
+286,288c293,297
+<         EditText editText14 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+<         Intrinsics.checkExpressionValueIsNotNull(editText14, str4);
+<         editText13.addTextChangedListener(new OTPTextWatcher(this, editText14));
+---
+>         if (editText13 != null) {
+>             EditText editText14 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+>             Intrinsics.checkExpressionValueIsNotNull(editText14, str4);
+>             editText13.addTextChangedListener(new OTPTextWatcher(this, editText14));
+>         }
+290,292c299,303
+<         EditText editText16 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+<         Intrinsics.checkExpressionValueIsNotNull(editText16, str5);
+<         editText15.addTextChangedListener(new OTPTextWatcher(this, editText16));
+---
+>         if (editText15 != null) {
+>             EditText editText16 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+>             Intrinsics.checkExpressionValueIsNotNull(editText16, str5);
+>             editText15.addTextChangedListener(new OTPTextWatcher(this, editText16));
+>         }
+294,296c305,309
+<         EditText editText18 = (EditText) _$_findCachedViewById(R.id.otp_et6);
+<         Intrinsics.checkExpressionValueIsNotNull(editText18, str6);
+<         editText17.addTextChangedListener(new OTPTextWatcher(this, editText18));
+---
+>         if (editText17 != null) {
+>             EditText editText18 = (EditText) _$_findCachedViewById(R.id.otp_et6);
+>             Intrinsics.checkExpressionValueIsNotNull(editText18, str6);
+>             editText17.addTextChangedListener(new OTPTextWatcher(this, editText18));
+>         }
+300,301c313,320
+<         ((LinearLayout) _$_findCachedViewById(R.id.enterPinActionButton)).setOnClickListener(new EnterPinFragment$onViewCreated$1(this));
+<         ((AppCompatImageView) _$_findCachedViewById(R.id.enterPinBackButton)).setOnClickListener(new EnterPinFragment$onViewCreated$2(this));
+---
+>         LinearLayout linearLayout2 = (LinearLayout) _$_findCachedViewById(R.id.enterPinActionButton);
+>         if (linearLayout2 != null) {
+>             linearLayout2.setOnClickListener(new EnterPinFragment$onViewCreated$1(this));
+>         }
+>         AppCompatImageView appCompatImageView = (AppCompatImageView) _$_findCachedViewById(R.id.enterPinBackButton);
+>         if (appCompatImageView != null) {
+>             appCompatImageView.setOnClickListener(new EnterPinFragment$onViewCreated$2(this));
+>         }
+340a360
+>         EditText editText = (EditText) _$_findCachedViewById(R.id.otp_et6);
+342,347c362,384
+<         ((EditText) _$_findCachedViewById(R.id.otp_et6)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et5)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et4)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et3)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et2)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et1)).setText(str);
+---
+>         if (editText != null) {
+>             editText.setText(str);
+>         }
+>         EditText editText2 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+>         if (editText2 != null) {
+>             editText2.setText(str);
+>         }
+>         EditText editText3 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+>         if (editText3 != null) {
+>             editText3.setText(str);
+>         }
+>         EditText editText4 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+>         if (editText4 != null) {
+>             editText4.setText(str);
+>         }
+>         EditText editText5 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+>         if (editText5 != null) {
+>             editText5.setText(str);
+>         }
+>         EditText editText6 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+>         if (editText6 != null) {
+>             editText6.setText(str);
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment$uploadData$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\EnterPinFragment$uploadData$1.java"
+24c24
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.fragment.EnterPinFragment$uploadData$1", f = "EnterPinFragment.kt", i = {0, 0, 1, 1, 1, 1}, l = {138, 147}, m = "invokeSuspend", n = {"$this$launch", "myParentFragment", "$this$launch", "myParentFragment", "jsonData", "queryParams"}, s = {"L$0", "L$1", "L$0", "L$1", "L$2", "L$3"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.fragment.EnterPinFragment$uploadData$1", f = "EnterPinFragment.kt", i = {0, 0, 1, 1, 1, 1}, l = {141, 150}, m = "invokeSuspend", n = {"$this$launch", "myParentFragment", "$this$launch", "myParentFragment", "jsonData", "queryParams"}, s = {"L$0", "L$1", "L$0", "L$1", "L$2", "L$3"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\ForUseFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\ForUseFragment.java"
+55c55,58
+<         ((LinearLayout) _$_findCachedViewById(R.id.forUseFragmentActionButton)).setOnClickListener(new ForUseFragment$onViewCreated$1(this));
+---
+>         LinearLayout linearLayout = (LinearLayout) _$_findCachedViewById(R.id.forUseFragmentActionButton);
+>         if (linearLayout != null) {
+>             linearLayout.setOnClickListener(new ForUseFragment$onViewCreated$1(this));
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HelpFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HelpFragment.java"
+64,66c64,66
+<         String str = "help_webview";
+<         Intrinsics.checkExpressionValueIsNotNull(webView, str);
+<         webView.setWebViewClient(new WebViewClient());
+---
+>         if (webView != null) {
+>             webView.setWebViewClient(new WebViewClient());
+>         }
+68,71c68,72
+<         Intrinsics.checkExpressionValueIsNotNull(webView2, str);
+<         WebSettings settings = webView2.getSettings();
+<         String str2 = "help_webview.settings";
+<         Intrinsics.checkExpressionValueIsNotNull(settings, str2);
+---
+>         WebSettings webSettings = null;
+>         WebSettings settings = webView2 != null ? webView2.getSettings() : null;
+>         if (settings == null) {
+>             Intrinsics.throwNpe();
+>         }
+74,79c75,81
+<         Intrinsics.checkExpressionValueIsNotNull(webView3, str);
+<         WebSettings settings2 = webView3.getSettings();
+<         Intrinsics.checkExpressionValueIsNotNull(settings2, str2);
+<         settings2.setLoadWithOverviewMode(true);
+<         ((WebView) _$_findCachedViewById(R.id.help_webview)).loadUrl(BuildConfig.FAQ_URL);
+<         WebChromeClient helpFragment$onViewCreated$wbc$1 = new HelpFragment$onViewCreated$wbc$1(this);
+---
+>         if (webView3 != null) {
+>             webSettings = webView3.getSettings();
+>         }
+>         if (webSettings == null) {
+>             Intrinsics.throwNpe();
+>         }
+>         webSettings.setLoadWithOverviewMode(true);
+81,82c83,90
+<         Intrinsics.checkExpressionValueIsNotNull(webView4, str);
+<         webView4.setWebChromeClient(helpFragment$onViewCreated$wbc$1);
+---
+>         if (webView4 != null) {
+>             webView4.loadUrl(BuildConfig.FAQ_URL);
+>         }
+>         WebChromeClient helpFragment$onViewCreated$wbc$1 = new HelpFragment$onViewCreated$wbc$1(this);
+>         WebView webView5 = (WebView) _$_findCachedViewById(R.id.help_webview);
+>         if (webView5 != null) {
+>             webView5.setWebChromeClient(helpFragment$onViewCreated$wbc$1);
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HomeFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HomeFragment.java"
+24a25
+> import androidx.core.view.ViewKt;
+112c113,120
+<         ((ImageView) _$_findCachedViewById(R.id.prem_info_button)).setOnClickListener(new HomeFragment$onViewCreated$2(this));
+---
+>         AppCompatTextView appCompatTextView = (AppCompatTextView) _$_findCachedViewById(R.id.tv_app_version);
+>         if (appCompatTextView != null) {
+>             appCompatTextView.setText("App Version: 1.0.1");
+>         }
+>         ImageView imageView = (ImageView) _$_findCachedViewById(R.id.prem_info_button);
+>         if (imageView != null) {
+>             imageView.setOnClickListener(new HomeFragment$onViewCreated$2(this));
+>         }
+143,146c151,166
+<         ((CardView) _$_findCachedViewById(R.id.share_card_view)).setOnClickListener(new HomeFragment$onActivityCreated$1(this));
+<         ((LottieAnimationView) _$_findCachedViewById(R.id.animation_view)).setOnClickListener(new HomeFragment$onActivityCreated$2(this));
+<         ((Button) _$_findCachedViewById(R.id.btn_restart_app_setup)).setOnClickListener(new HomeFragment$onActivityCreated$3(this));
+<         ((ImageButton) _$_findCachedViewById(R.id.btn_announcement_close)).setOnClickListener(new HomeFragment$onActivityCreated$4(this));
+---
+>         CardView cardView = (CardView) _$_findCachedViewById(R.id.share_card_view);
+>         if (cardView != null) {
+>             cardView.setOnClickListener(new HomeFragment$onActivityCreated$1(this));
+>         }
+>         LottieAnimationView lottieAnimationView = (LottieAnimationView) _$_findCachedViewById(R.id.animation_view);
+>         if (lottieAnimationView != null) {
+>             lottieAnimationView.setOnClickListener(new HomeFragment$onActivityCreated$2(this));
+>         }
+>         Button button = (Button) _$_findCachedViewById(R.id.btn_restart_app_setup);
+>         if (button != null) {
+>             button.setOnClickListener(new HomeFragment$onActivityCreated$3(this));
+>         }
+>         ImageButton imageButton = (ImageButton) _$_findCachedViewById(R.id.btn_announcement_close);
+>         if (imageButton != null) {
+>             imageButton.setOnClickListener(new HomeFragment$onActivityCreated$4(this));
+>         }
+192,193c212,214
+<         Intrinsics.checkExpressionValueIsNotNull(linearLayout, "view_complete");
+<         linearLayout.setVisibility(0);
+---
+>         if (linearLayout != null) {
+>             ViewKt.setVisible(linearLayout, true);
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HomeFragment$onViewCreated$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\HomeFragment$onViewCreated$1.java"
+11d10
+< import kotlin.jvm.internal.Intrinsics;
+25,27c24,26
+<             String str = "tv_last_update";
+<             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView, str);
+<             appCompatTextView.setVisibility(0);
+---
+>             if (appCompatTextView != null) {
+>                 appCompatTextView.setVisibility(0);
+>             }
+29,33c28,33
+<             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView2, str);
+<             StringBuilder sb = new StringBuilder();
+<             sb.append("Last updated: ");
+<             sb.append(Utils.INSTANCE.getTime(statusRecord.getTimestamp()));
+<             appCompatTextView2.setText(sb.toString());
+---
+>             if (appCompatTextView2 != null) {
+>                 StringBuilder sb = new StringBuilder();
+>                 sb.append("Last updated: ");
+>                 sb.append(Utils.INSTANCE.getTime(statusRecord.getTimestamp()));
+>                 appCompatTextView2.setText(sb.toString());
+>             }
+39c39,42
+<                 ((LottieAnimationView) this.this$0._$_findCachedViewById(R.id.animation_view)).playAnimation();
+---
+>                 LottieAnimationView lottieAnimationView = (LottieAnimationView) this.this$0._$_findCachedViewById(R.id.animation_view);
+>                 if (lottieAnimationView != null) {
+>                     lottieAnimationView.playAnimation();
+>                 }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\UploadCompleteFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\UploadCompleteFragment.java"
+55c55,58
+<         ((LinearLayout) _$_findCachedViewById(R.id.uploadCompleteFragmentActionButton)).setOnClickListener(new UploadCompleteFragment$onViewCreated$1(this));
+---
+>         LinearLayout linearLayout = (LinearLayout) _$_findCachedViewById(R.id.uploadCompleteFragmentActionButton);
+>         if (linearLayout != null) {
+>             linearLayout.setOnClickListener(new UploadCompleteFragment$onViewCreated$1(this));
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\VerifyCallerFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\fragment\\VerifyCallerFragment.java"
+59,62c59,69
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView, "verifyCallerFragmentVerificationCode");
+<         appCompatTextView.setText(Preference.INSTANCE.getUUID(view.getContext()));
+<         ((LinearLayout) _$_findCachedViewById(R.id.verifyCallerFragmentActionButton)).setOnClickListener(new VerifyCallerFragment$onViewCreated$1(this));
+<         ((AppCompatImageView) _$_findCachedViewById(R.id.verifyCallerBackButton)).setOnClickListener(new VerifyCallerFragment$onViewCreated$2(this));
+---
+>         if (appCompatTextView != null) {
+>             appCompatTextView.setText(Preference.INSTANCE.getUUID(view.getContext()));
+>         }
+>         LinearLayout linearLayout = (LinearLayout) _$_findCachedViewById(R.id.verifyCallerFragmentActionButton);
+>         if (linearLayout != null) {
+>             linearLayout.setOnClickListener(new VerifyCallerFragment$onViewCreated$1(this));
+>         }
+>         AppCompatImageView appCompatImageView = (AppCompatImageView) _$_findCachedViewById(R.id.verifyCallerBackButton);
+>         if (appCompatImageView != null) {
+>             appCompatImageView.setOnClickListener(new VerifyCallerFragment$onViewCreated$2(this));
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\idmanager\\TempIDManager$getTemporaryIDs$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\idmanager\\TempIDManager$getTemporaryIDs$1.java"
+3a4
+> import android.content.Intent;
+5a7
+> import ca.albertahealthservices.contacttracing.RestartActivity;
+31c33
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.idmanager.TempIDManager$getTemporaryIDs$1", f = "TempIDManager.kt", i = {0, 0}, l = {129}, m = "invokeSuspend", n = {"$this$launch", "queryParams"}, s = {"L$0", "L$1"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.idmanager.TempIDManager$getTemporaryIDs$1", f = "TempIDManager.kt", i = {0, 0, 0}, l = {136}, m = "invokeSuspend", n = {"$this$launch", "userId", "queryParams"}, s = {"L$0", "L$1", "L$2"})
+36a39
+>     Object L$2;
+57d59
+<         String str;
+59,61c61,62
+<         String str2 = "[TempID] Error getting Temporary IDs - no refreshTime returned";
+<         String str3 = "[TempID] Error getting Temporary IDs - no temp IDs returned";
+<         String str4 = "[TempID] Error getting Temporary IDs - status not SUCCESS";
+---
+>         String str = "[TempID] Error getting Temporary IDs - no refreshTime returned";
+>         String str2 = "[TempID] Error getting Temporary IDs - no temp IDs returned";
+64c65
+<         String str5 = "TempIDManager";
+---
+>         String str3 = "TempIDManager";
+68,78c69,78
+<             HashMap hashMap = new HashMap();
+<             hashMap.put("userId", Preference.INSTANCE.getUUID(this.$context));
+<             Request request = Request.INSTANCE;
+<             String str6 = "/adapters/tempidsAdapter/tempIds";
+<             String str7 = "GET";
+<             this.L$0 = coroutineScope;
+<             this.L$1 = hashMap;
+<             this.label = 1;
+<             str = str5;
+<             try {
+<                 obj2 = Request.runRequest$default(request, str6, str7, 0, null, null, hashMap, this, 28, null);
+---
+>             String uuid = Preference.INSTANCE.getUUID(this.$context);
+>             if (!Intrinsics.areEqual((Object) uuid, (Object) "")) {
+>                 HashMap hashMap = new HashMap();
+>                 hashMap.put("userId", uuid);
+>                 Request request = Request.INSTANCE;
+>                 this.L$0 = coroutineScope;
+>                 this.L$1 = uuid;
+>                 this.L$2 = hashMap;
+>                 this.label = 1;
+>                 obj2 = Request.runRequest$default(request, "/adapters/tempidsAdapter/tempIds", "GET", 0, null, null, hashMap, this, 28, null);
+82,85c82,87
+<             } catch (Exception unused) {
+<                 String str8 = "[TempID] Error getting Temporary IDs";
+<                 CentralLog.Companion.d(str, str8);
+<                 WFLog.Companion.logError(str8);
+---
+>             } else {
+>                 CentralLog.Companion.d(str3, "User is not logged in");
+>                 WFLog.Companion.logError("[TempID] Error getting Temporary IDs, no userId");
+>                 Intent intent = new Intent(this.$context.getApplicationContext(), RestartActivity.class);
+>                 intent.addFlags(268435456);
+>                 this.$context.getApplicationContext().startActivity(intent);
+89c91,92
+<             HashMap hashMap2 = (HashMap) this.L$1;
+---
+>             HashMap hashMap2 = (HashMap) this.L$2;
+>             String str4 = (String) this.L$1;
+94,100c97,98
+<                 str = str5;
+<             } catch (Exception unused2) {
+<                 str = str5;
+<                 String str82 = "[TempID] Error getting Temporary IDs";
+<                 CentralLog.Companion.d(str, str82);
+<                 WFLog.Companion.logError(str82);
+<                 return Unit.INSTANCE;
+---
+>             } catch (Exception unused) {
+>                 CentralLog.Companion.d(str3, "[TempID] Error getting Temporary IDs");
+106c104
+<         CentralLog.Companion.d(str, response.toString());
+---
+>         CentralLog.Companion.d(str3, response.toString());
+110c108
+<                 CentralLog.Companion.i(str, "Retrieved Temporary IDs from Server");
+---
+>                 CentralLog.Companion.i(str3, "Retrieved Temporary IDs from Server");
+112c110
+<                 String str9 = null;
+---
+>                 String str5 = null;
+114c112
+<                 String str10 = "null cannot be cast to non-null type java.lang.String";
+---
+>                 String str6 = "null cannot be cast to non-null type java.lang.String";
+118,119c116,117
+<                         str9 = replace$default.substring(0, length);
+<                         Intrinsics.checkExpressionValueIsNotNull(str9, "(this as java.lang.Strin…ing(startIndex, endIndex)");
+---
+>                         str5 = replace$default.substring(0, length);
+>                         Intrinsics.checkExpressionValueIsNotNull(str5, "(this as java.lang.Strin…ing(startIndex, endIndex)");
+121c119
+<                         throw new TypeCastException(str10);
+---
+>                         throw new TypeCastException(str6);
+124,125c122,123
+<                 Object fromJson = new Gson().fromJson(str9, new TempIDManager$getTemporaryIDs$1$result$1().getType());
+<                 Intrinsics.checkExpressionValueIsNotNull(fromJson, "Gson().fromJson(\n       …tType()\n                )");
+---
+>                 Object fromJson = new Gson().fromJson(str5, new TempIDManager$getTemporaryIDs$1$result$1().getType());
+>                 Intrinsics.checkExpressionValueIsNotNull(fromJson, "Gson().fromJson(\n       …e()\n                    )");
+133,134c131
+<                         CentralLog.Companion.d(str, str4);
+<                         WFLog.Companion.logError(str4);
+---
+>                         CentralLog.Companion.d(str3, "[TempID] Error getting Temporary IDs - status not SUCCESS");
+136,139c133
+<                         CentralLog.Companion.d(str, str3);
+<                         WFLog.Companion.logError(str3);
+<                     } else if (Boxing.boxDouble(doubleValue) == null) {
+<                         CentralLog.Companion.d(str, str2);
+---
+>                         CentralLog.Companion.d(str3, str2);
+140a135,137
+>                     } else if (Boxing.boxDouble(doubleValue) == null) {
+>                         CentralLog.Companion.d(str3, str);
+>                         WFLog.Companion.logError(str);
+154c151
+<                             throw new TypeCastException(str10);
+---
+>                             throw new TypeCastException(str6);
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\HowItWorksActivity.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\HowItWorksActivity.java"
+40c40,43
+<         ((LinearLayout) _$_findCachedViewById(R.id.btn_onboardingStart)).setOnClickListener(new HowItWorksActivity$onCreate$1(this));
+---
+>         LinearLayout linearLayout = (LinearLayout) _$_findCachedViewById(R.id.btn_onboardingStart);
+>         if (linearLayout != null) {
+>             linearLayout.setOnClickListener(new HowItWorksActivity$onCreate$1(this));
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\OnboardingActivity$requestForOTP$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\OnboardingActivity$requestForOTP$1.java"
+22c22
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.onboarding.OnboardingActivity$requestForOTP$1", f = "OnboardingActivity.kt", i = {0, 0, 1}, l = {465, 478}, m = "invokeSuspend", n = {"$this$launch", "continueToOtp", "$this$launch"}, s = {"L$0", "I$0", "L$0"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.onboarding.OnboardingActivity$requestForOTP$1", f = "OnboardingActivity.kt", i = {0, 0, 1}, l = {466, 479}, m = "invokeSuspend", n = {"$this$launch", "continueToOtp", "$this$launch"}, s = {"L$0", "I$0", "L$0"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\OTPFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\OTPFragment.java"
+32c32
+<     private final long COUNTDOWN_DURATION = 120;
+---
+>     private final long COUNTDOWN_DURATION = 180;
+296,301c296,305
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView, "sent_to");
+<         Object[] objArr = new Object[1];
+<         Preference preference = Preference.INSTANCE;
+<         Context context = getContext();
+<         if (context == null) {
+<             Intrinsics.throwNpe();
+---
+>         if (appCompatTextView != null) {
+>             Object[] objArr = new Object[1];
+>             Preference preference = Preference.INSTANCE;
+>             Context context = getContext();
+>             if (context == null) {
+>                 Intrinsics.throwNpe();
+>             }
+>             Intrinsics.checkExpressionValueIsNotNull(context, "context!!");
+>             objArr[0] = String.valueOf(buildPhoneString(preference.getPhoneNumber(context)));
+>             appCompatTextView.setText(HtmlCompat.fromHtml(getString(R.string.otp_sent, objArr), 0));
+303,305d306
+<         Intrinsics.checkExpressionValueIsNotNull(context, "context!!");
+<         objArr[0] = String.valueOf(buildPhoneString(preference.getPhoneNumber(context)));
+<         appCompatTextView.setText(HtmlCompat.fromHtml(getString(R.string.otp_sent, objArr), 0));
+347,349c348,352
+<         EditText editText8 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+<         Intrinsics.checkExpressionValueIsNotNull(editText8, str);
+<         editText7.addTextChangedListener(new OTPTextWatcher(this, editText8, this.otpInputs));
+---
+>         if (editText7 != null) {
+>             EditText editText8 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+>             Intrinsics.checkExpressionValueIsNotNull(editText8, str);
+>             editText7.addTextChangedListener(new OTPTextWatcher(this, editText8, this.otpInputs));
+>         }
+351,353c354,358
+<         EditText editText10 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+<         Intrinsics.checkExpressionValueIsNotNull(editText10, str2);
+<         editText9.addTextChangedListener(new OTPTextWatcher(this, editText10, this.otpInputs));
+---
+>         if (editText9 != null) {
+>             EditText editText10 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+>             Intrinsics.checkExpressionValueIsNotNull(editText10, str2);
+>             editText9.addTextChangedListener(new OTPTextWatcher(this, editText10, this.otpInputs));
+>         }
+355,357c360,364
+<         EditText editText12 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+<         Intrinsics.checkExpressionValueIsNotNull(editText12, str3);
+<         editText11.addTextChangedListener(new OTPTextWatcher(this, editText12, this.otpInputs));
+---
+>         if (editText11 != null) {
+>             EditText editText12 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+>             Intrinsics.checkExpressionValueIsNotNull(editText12, str3);
+>             editText11.addTextChangedListener(new OTPTextWatcher(this, editText12, this.otpInputs));
+>         }
+359,361c366,370
+<         EditText editText14 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+<         Intrinsics.checkExpressionValueIsNotNull(editText14, str4);
+<         editText13.addTextChangedListener(new OTPTextWatcher(this, editText14, this.otpInputs));
+---
+>         if (editText13 != null) {
+>             EditText editText14 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+>             Intrinsics.checkExpressionValueIsNotNull(editText14, str4);
+>             editText13.addTextChangedListener(new OTPTextWatcher(this, editText14, this.otpInputs));
+>         }
+363,365c372,376
+<         EditText editText16 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+<         Intrinsics.checkExpressionValueIsNotNull(editText16, str5);
+<         editText15.addTextChangedListener(new OTPTextWatcher(this, editText16, this.otpInputs));
+---
+>         if (editText15 != null) {
+>             EditText editText16 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+>             Intrinsics.checkExpressionValueIsNotNull(editText16, str5);
+>             editText15.addTextChangedListener(new OTPTextWatcher(this, editText16, this.otpInputs));
+>         }
+367,371c378,390
+<         EditText editText18 = (EditText) _$_findCachedViewById(R.id.otp_et6);
+<         Intrinsics.checkExpressionValueIsNotNull(editText18, str6);
+<         editText17.addTextChangedListener(new OTPTextWatcher(this, editText18, this.otpInputs));
+<         ((AppCompatTextView) _$_findCachedViewById(R.id.resendCode)).setOnClickListener(new OTPFragment$onViewCreated$1(this));
+<         ((EditText) _$_findCachedViewById(R.id.otp_et6)).setOnEditorActionListener(new OTPFragment$onViewCreated$2(this, view));
+---
+>         if (editText17 != null) {
+>             EditText editText18 = (EditText) _$_findCachedViewById(R.id.otp_et6);
+>             Intrinsics.checkExpressionValueIsNotNull(editText18, str6);
+>             editText17.addTextChangedListener(new OTPTextWatcher(this, editText18, this.otpInputs));
+>         }
+>         AppCompatTextView appCompatTextView2 = (AppCompatTextView) _$_findCachedViewById(R.id.resendCode);
+>         if (appCompatTextView2 != null) {
+>             appCompatTextView2.setOnClickListener(new OTPFragment$onViewCreated$1(this));
+>         }
+>         EditText editText19 = (EditText) _$_findCachedViewById(R.id.otp_et6);
+>         if (editText19 != null) {
+>             editText19.setOnEditorActionListener(new OTPFragment$onViewCreated$2(this, view));
+>         }
+396c415,418
+<         ((AppCompatTextView) _$_findCachedViewById(R.id.timer)).setTextColor(this.colorText);
+---
+>         AppCompatTextView appCompatTextView = (AppCompatTextView) _$_findCachedViewById(R.id.timer);
+>         if (appCompatTextView != null) {
+>             appCompatTextView.setTextColor(this.colorText);
+>         }
+472a495
+>         EditText editText = (EditText) _$_findCachedViewById(R.id.otp_et6);
+474,479c497,519
+<         ((EditText) _$_findCachedViewById(R.id.otp_et6)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et5)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et4)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et3)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et2)).setText(str);
+<         ((EditText) _$_findCachedViewById(R.id.otp_et1)).setText(str);
+---
+>         if (editText != null) {
+>             editText.setText(str);
+>         }
+>         EditText editText2 = (EditText) _$_findCachedViewById(R.id.otp_et5);
+>         if (editText2 != null) {
+>             editText2.setText(str);
+>         }
+>         EditText editText3 = (EditText) _$_findCachedViewById(R.id.otp_et4);
+>         if (editText3 != null) {
+>             editText3.setText(str);
+>         }
+>         EditText editText4 = (EditText) _$_findCachedViewById(R.id.otp_et3);
+>         if (editText4 != null) {
+>             editText4.setText(str);
+>         }
+>         EditText editText5 = (EditText) _$_findCachedViewById(R.id.otp_et2);
+>         if (editText5 != null) {
+>             editText5.setText(str);
+>         }
+>         EditText editText6 = (EditText) _$_findCachedViewById(R.id.otp_et1);
+>         if (editText6 != null) {
+>             editText6.setText(str);
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\PreOnboardingActivity.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\PreOnboardingActivity.java"
+2a3
+> import android.content.Context;
+5a7,8
+> import androidx.appcompat.widget.AppCompatTextView;
+> import androidx.core.content.ContextCompat;
+6a10
+> import ca.albertahealthservices.contacttracing.Preference;
+9a14
+> import kotlin.jvm.internal.Intrinsics;
+40c45,68
+<         ((LinearLayout) _$_findCachedViewById(R.id.btn_onboardingStart)).setOnClickListener(new PreOnboardingActivity$onCreate$1(this));
+---
+>         AppCompatTextView appCompatTextView = (AppCompatTextView) _$_findCachedViewById(R.id.tv_app_version);
+>         if (appCompatTextView != null) {
+>             appCompatTextView.setText("App Version: 1.0.1");
+>         }
+>         LinearLayout linearLayout = (LinearLayout) _$_findCachedViewById(R.id.btn_onboardingStart);
+>         if (linearLayout != null) {
+>             linearLayout.setOnClickListener(new PreOnboardingActivity$onCreate$1(this));
+>         }
+>         Preference preference = Preference.INSTANCE;
+>         Context applicationContext = getApplicationContext();
+>         Intrinsics.checkExpressionValueIsNotNull(applicationContext, "applicationContext");
+>         if (preference.getUUIDRetryAttempts(applicationContext) > 2) {
+>             LinearLayout linearLayout2 = (LinearLayout) _$_findCachedViewById(R.id.btn_onboardingStart);
+>             Intrinsics.checkExpressionValueIsNotNull(linearLayout2, "btn_onboardingStart");
+>             linearLayout2.setEnabled(false);
+>             AppCompatTextView appCompatTextView2 = (AppCompatTextView) _$_findCachedViewById(R.id.tv_desc);
+>             if (appCompatTextView2 != null) {
+>                 appCompatTextView2.setText(getString(R.string.tv_uuid_retry_error));
+>             }
+>             AppCompatTextView appCompatTextView3 = (AppCompatTextView) _$_findCachedViewById(R.id.tv_desc);
+>             if (appCompatTextView3 != null) {
+>                 appCompatTextView3.setTextColor(ContextCompat.getColor(this, R.color.error));
+>             }
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\RegisterNumberFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\RegisterNumberFragment.java"
+133,134c133,144
+<         ((EditText) _$_findCachedViewById(R.id.phone_number)).addTextChangedListener(new RegisterNumberFragment$onViewCreated$1(this));
+<         ((EditText) _$_findCachedViewById(R.id.phone_number)).setOnEditorActionListener(new RegisterNumberFragment$onViewCreated$2(this, view));
+---
+>         EditText editText = (EditText) _$_findCachedViewById(R.id.phone_number);
+>         if (editText != null) {
+>             editText.addTextChangedListener(new RegisterNumberFragment$onViewCreated$1(this));
+>         }
+>         EditText editText2 = (EditText) _$_findCachedViewById(R.id.phone_number);
+>         if (editText2 != null) {
+>             editText2.setOnEditorActionListener(new RegisterNumberFragment$onViewCreated$2(this, view));
+>         }
+>         AppCompatTextView appCompatTextView = (AppCompatTextView) _$_findCachedViewById(R.id.tv_app_version);
+>         if (appCompatTextView != null) {
+>             appCompatTextView.setText("App Version: 1.0.1");
+>         }
+197c207
+<         return getUnmaskedNumber(str).length() >= 8;
+---
+>         return getUnmaskedNumber(str).length() == 10;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\TOUFragment.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\TOUFragment.java"
+124,125c124,131
+<         ((Button) _$_findCachedViewById(R.id.privacy_button)).setOnClickListener(new TOUFragment$onViewCreated$1(this));
+<         ((Button) _$_findCachedViewById(R.id.faq_button)).setOnClickListener(new TOUFragment$onViewCreated$2(this));
+---
+>         Button button = (Button) _$_findCachedViewById(R.id.privacy_button);
+>         if (button != null) {
+>             button.setOnClickListener(new TOUFragment$onViewCreated$1(this));
+>         }
+>         Button button2 = (Button) _$_findCachedViewById(R.id.faq_button);
+>         if (button2 != null) {
+>             button2.setOnClickListener(new TOUFragment$onViewCreated$2(this));
+>         }
+129,133c135,139
+<         String str = "privacy_desc4";
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView, str);
+<         AppCompatTextView appCompatTextView2 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc4);
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView2, str);
+<         appCompatTextView.setText(createSpannableString(appCompatTextView2.getText().toString(), "Privacy Statement", tOUFragment$onViewCreated$privacyClickableSpan$1));
+---
+>         if (appCompatTextView != null) {
+>             AppCompatTextView appCompatTextView2 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc4);
+>             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView2, "privacy_desc4");
+>             appCompatTextView.setText(createSpannableString(appCompatTextView2.getText().toString(), "Privacy Statement", tOUFragment$onViewCreated$privacyClickableSpan$1));
+>         }
+136,141c142,147
+<         String str2 = "privacy_desc7";
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView3, str2);
+<         AppCompatTextView appCompatTextView4 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc7);
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView4, str2);
+<         String str3 = "HiaHelpDesk@gov.ab.ca";
+<         appCompatTextView3.setText(createSpannableString(appCompatTextView4.getText().toString(), str3, tOUFragment$onViewCreated$emailClickableSpan$1));
+---
+>         String str = "HiaHelpDesk@gov.ab.ca";
+>         if (appCompatTextView3 != null) {
+>             AppCompatTextView appCompatTextView4 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc7);
+>             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView4, "privacy_desc7");
+>             appCompatTextView3.setText(createSpannableString(appCompatTextView4.getText().toString(), str, tOUFragment$onViewCreated$emailClickableSpan$1));
+>         }
+143,151c149,169
+<         String str4 = "privacy_desc8";
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView5, str4);
+<         AppCompatTextView appCompatTextView6 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc8);
+<         Intrinsics.checkExpressionValueIsNotNull(appCompatTextView6, str4);
+<         appCompatTextView5.setText(createSpannableString(appCompatTextView6.getText().toString(), str3, tOUFragment$onViewCreated$emailClickableSpan$1));
+<         ((Switch) _$_findCachedViewById(R.id.checkbox_agreement)).setOnCheckedChangeListener(new TOUFragment$onViewCreated$3(this));
+<         ((AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc4)).setMovementMethod(LinkMovementMethod.getInstance());
+<         ((AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc7)).setMovementMethod(LinkMovementMethod.getInstance());
+<         ((AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc8)).setMovementMethod(LinkMovementMethod.getInstance());
+---
+>         if (appCompatTextView5 != null) {
+>             AppCompatTextView appCompatTextView6 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc8);
+>             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView6, "privacy_desc8");
+>             appCompatTextView5.setText(createSpannableString(appCompatTextView6.getText().toString(), str, tOUFragment$onViewCreated$emailClickableSpan$1));
+>         }
+>         Switch switchR = (Switch) _$_findCachedViewById(R.id.checkbox_agreement);
+>         if (switchR != null) {
+>             switchR.setOnCheckedChangeListener(new TOUFragment$onViewCreated$3(this));
+>         }
+>         AppCompatTextView appCompatTextView7 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc4);
+>         if (appCompatTextView7 != null) {
+>             appCompatTextView7.setMovementMethod(LinkMovementMethod.getInstance());
+>         }
+>         AppCompatTextView appCompatTextView8 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc7);
+>         if (appCompatTextView8 != null) {
+>             appCompatTextView8.setMovementMethod(LinkMovementMethod.getInstance());
+>         }
+>         AppCompatTextView appCompatTextView9 = (AppCompatTextView) _$_findCachedViewById(R.id.privacy_desc8);
+>         if (appCompatTextView9 != null) {
+>             appCompatTextView9.setMovementMethod(LinkMovementMethod.getInstance());
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\WebViewActivity.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\onboarding\\WebViewActivity.java"
+51,54c51,53
+<         String str2 = "webview";
+<         Intrinsics.checkExpressionValueIsNotNull(webView, str2);
+<         webView.setWebViewClient(new WebViewClient());
+<         String str3 = "tv_title";
+---
+>         if (webView != null) {
+>             webView.setWebViewClient(new WebViewClient());
+>         }
+57,58c56,58
+<             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView, str3);
+<             appCompatTextView.setText(getString(R.string.faq_webview_title));
+---
+>             if (appCompatTextView != null) {
+>                 appCompatTextView.setText(getString(R.string.faq_webview_title));
+>             }
+62,63c62,64
+<             Intrinsics.checkExpressionValueIsNotNull(appCompatTextView2, str3);
+<             appCompatTextView2.setText(getString(R.string.privacy_policy_webview_title));
+---
+>             if (appCompatTextView2 != null) {
+>                 appCompatTextView2.setText(getString(R.string.privacy_policy_webview_title));
+>             }
+67,70c68,72
+<         Intrinsics.checkExpressionValueIsNotNull(webView2, str2);
+<         WebSettings settings = webView2.getSettings();
+<         String str4 = "webview.settings";
+<         Intrinsics.checkExpressionValueIsNotNull(settings, str4);
+---
+>         WebSettings webSettings = null;
+>         WebSettings settings = webView2 != null ? webView2.getSettings() : null;
+>         if (settings == null) {
+>             Intrinsics.throwNpe();
+>         }
+73,78c75,81
+<         Intrinsics.checkExpressionValueIsNotNull(webView3, str2);
+<         WebSettings settings2 = webView3.getSettings();
+<         Intrinsics.checkExpressionValueIsNotNull(settings2, str4);
+<         settings2.setLoadWithOverviewMode(true);
+<         ((WebView) _$_findCachedViewById(R.id.webview)).loadUrl(str);
+<         WebChromeClient webViewActivity$onCreate$wbc$1 = new WebViewActivity$onCreate$wbc$1(this);
+---
+>         if (webView3 != null) {
+>             webSettings = webView3.getSettings();
+>         }
+>         if (webSettings == null) {
+>             Intrinsics.throwNpe();
+>         }
+>         webSettings.setLoadWithOverviewMode(true);
+80,81c83,90
+<         Intrinsics.checkExpressionValueIsNotNull(webView4, str2);
+<         webView4.setWebChromeClient(webViewActivity$onCreate$wbc$1);
+---
+>         if (webView4 != null) {
+>             webView4.loadUrl(str);
+>         }
+>         WebChromeClient webViewActivity$onCreate$wbc$1 = new WebViewActivity$onCreate$wbc$1(this);
+>         WebView webView5 = (WebView) _$_findCachedViewById(R.id.webview);
+>         if (webView5 != null) {
+>             webView5.setWebChromeClient(webViewActivity$onCreate$wbc$1);
+>         }
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\Preference.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\Preference.java"
+9c9
+< @Metadata(bv = {1, 0, 3}, d1 = {"\u0000>\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u000e\n\u0002\b\u000b\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\b\n\u0000\n\u0002\u0010\t\n\u0002\b\u0006\n\u0002\u0010\u000b\n\u0000\n\u0002\u0010\u0002\n\u0002\b\u000e\n\u0002\u0018\u0002\n\u0002\b\u0002\bÆ\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002¢\u0006\u0002\u0010\u0002J\u000e\u0010\u000e\u001a\u00020\u00042\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0011\u001a\u00020\u00122\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0013\u001a\u00020\u00142\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0015\u001a\u00020\u00142\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0016\u001a\u00020\u00142\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0017\u001a\u00020\u00142\u0006\u0010\u000f\u001a\u00020\u0010J\u000e\u0010\u0018\u001a\u00020\u00042\u0006\u0010\u000f\u001a\u00020\u0010J\u0010\u0010\u0019\u001a\u00020\u00042\b\u0010\u000f\u001a\u0004\u0018\u00010\u0010J\u000e\u0010\u001a\u001a\u00020\u001b2\u0006\u0010\u000f\u001a\u00020\u0010J\u0016\u0010\u001c\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010\u001e\u001a\u00020\u0004J\u0016\u0010\u001f\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010 \u001a\u00020\u0012J\u0016\u0010!\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010\"\u001a\u00020\u0014J\u0016\u0010#\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010 \u001a\u00020\u001bJ\u0016\u0010$\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010\"\u001a\u00020\u0014J\u0016\u0010%\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010&\u001a\u00020\u0014J\u0016\u0010'\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010\"\u001a\u00020\u0014J\u0016\u0010(\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010 \u001a\u00020\u0004J\u0016\u0010)\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010 \u001a\u00020\u0004J\u0016\u0010*\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010+\u001a\u00020,J\u0016\u0010-\u001a\u00020\u001d2\u0006\u0010\u000f\u001a\u00020\u00102\u0006\u0010+\u001a\u00020,R\u000e\u0010\u0003\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\b\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\t\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\n\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u000b\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\f\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\r\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000¨\u0006."}, d2 = {"Lca/albertahealthservices/contacttracing/Preference;", "", "()V", "ANNOUNCEMENT", "", "CHECK_POINT", "EXPIRY_TIME", "IS_ONBOARDED", "LAST_FETCH_TIME", "LAST_PURGE_TIME", "NEXT_FETCH_TIME", "PHONE_NUMBER", "PREF_ID", "UUID", "getAnnouncement", "context", "Landroid/content/Context;", "getCheckpoint", "", "getExpiryTimeInMillis", "", "getLastFetchTimeInMillis", "getLastPurgeTime", "getNextFetchTimeInMillis", "getPhoneNumber", "getUUID", "isOnBoarded", "", "putAnnouncement", "", "announcement", "putCheckpoint", "value", "putExpiryTimeInMillis", "time", "putIsOnBoarded", "putLastFetchTimeInMillis", "putLastPurgeTime", "lastPurgeTime", "putNextFetchTimeInMillis", "putPhoneNumber", "putUUID", "registerListener", "listener", "Landroid/content/SharedPreferences$OnSharedPreferenceChangeListener;", "unregisterListener", "app_release"}, k = 1, mv = {1, 1, 16})
+---
+> @Metadata(bv = {1, 0, 3}, d1 = {"\u0000>\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u000e\n\u0002\b\f\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\b\n\u0000\n\u0002\u0010\t\n\u0002\b\u0007\n\u0002\u0010\u000b\n\u0000\n\u0002\u0010\u0002\n\u0002\b\u000f\n\u0002\u0018\u0002\n\u0002\b\u0002\bÆ\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002¢\u0006\u0002\u0010\u0002J\u000e\u0010\u000f\u001a\u00020\u00042\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0012\u001a\u00020\u00132\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0014\u001a\u00020\u00152\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0016\u001a\u00020\u00152\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0017\u001a\u00020\u00152\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0018\u001a\u00020\u00152\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u0019\u001a\u00020\u00042\u0006\u0010\u0010\u001a\u00020\u0011J\u0010\u0010\u001a\u001a\u00020\u00042\b\u0010\u0010\u001a\u0004\u0018\u00010\u0011J\u000e\u0010\u001b\u001a\u00020\u00132\u0006\u0010\u0010\u001a\u00020\u0011J\u000e\u0010\u001c\u001a\u00020\u001d2\u0006\u0010\u0010\u001a\u00020\u0011J\u0016\u0010\u001e\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010 \u001a\u00020\u0004J\u0016\u0010!\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u0013J\u0016\u0010#\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010$\u001a\u00020\u0015J\u0016\u0010%\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u001dJ\u0016\u0010&\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010$\u001a\u00020\u0015J\u0016\u0010'\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010(\u001a\u00020\u0015J\u0016\u0010)\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010$\u001a\u00020\u0015J\u0016\u0010*\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u0004J\u0016\u0010+\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u0004J\u0016\u0010,\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u0013J\u0016\u0010-\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010.\u001a\u00020/J\u0016\u00100\u001a\u00020\u001f2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010.\u001a\u00020/R\u000e\u0010\u0003\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\b\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\t\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\n\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u000b\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\f\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\r\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000R\u000e\u0010\u000e\u001a\u00020\u0004XT¢\u0006\u0002\n\u0000¨\u00061"}, d2 = {"Lca/albertahealthservices/contacttracing/Preference;", "", "()V", "ANNOUNCEMENT", "", "CHECK_POINT", "EXPIRY_TIME", "IS_ONBOARDED", "LAST_FETCH_TIME", "LAST_PURGE_TIME", "NEXT_FETCH_TIME", "PHONE_NUMBER", "PREF_ID", "UUID", "UUID_RETRY_ATTEMPTS", "getAnnouncement", "context", "Landroid/content/Context;", "getCheckpoint", "", "getExpiryTimeInMillis", "", "getLastFetchTimeInMillis", "getLastPurgeTime", "getNextFetchTimeInMillis", "getPhoneNumber", "getUUID", "getUUIDRetryAttempts", "isOnBoarded", "", "putAnnouncement", "", "announcement", "putCheckpoint", "value", "putExpiryTimeInMillis", "time", "putIsOnBoarded", "putLastFetchTimeInMillis", "putLastPurgeTime", "lastPurgeTime", "putNextFetchTimeInMillis", "putPhoneNumber", "putUUID", "putUUIDRetryAttempts", "registerListener", "listener", "Landroid/content/SharedPreferences$OnSharedPreferenceChangeListener;", "unregisterListener", "app_release"}, k = 1, mv = {1, 1, 16})
+22a23
+>     private static final String UUID_RETRY_ATTEMPTS = "UUID_RETRY_ATTEMPTS";
+24a26,35
+>     }
+> 
+>     public final int getUUIDRetryAttempts(Context context) {
+>         Intrinsics.checkParameterIsNotNull(context, "context");
+>         return context.getSharedPreferences(PREF_ID, 0).getInt(UUID_RETRY_ATTEMPTS, 0);
+>     }
+> 
+>     public final void putUUIDRetryAttempts(Context context, int i) {
+>         Intrinsics.checkParameterIsNotNull(context, "context");
+>         context.getSharedPreferences(PREF_ID, 0).edit().putInt(UUID_RETRY_ATTEMPTS, i).apply();
+Only in abtracetogether_1.0.1.apk_disassembled/: sources\ca\albertahealthservices\contacttracing\RestartActivity.java
+Only in abtracetogether_1.0.1.apk_disassembled/: sources\ca\albertahealthservices\contacttracing\RestartActivity$onCreate$1.java
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\R.java"
+2138,2181c2138,2182
+<         public static final int tv_bluetooth = 2131296649;
+<         public static final int tv_desc = 2131296650;
+<         public static final int tv_desc_sub = 2131296651;
+<         public static final int tv_desc_sub_1 = 2131296652;
+<         public static final int tv_desc_sub_2 = 2131296653;
+<         public static final int tv_desc_sub_3 = 2131296654;
+<         public static final int tv_error = 2131296655;
+<         public static final int tv_home_subtitle = 2131296656;
+<         public static final int tv_home_title = 2131296657;
+<         public static final int tv_last_update = 2131296658;
+<         public static final int tv_location = 2131296659;
+<         public static final int tv_note_1 = 2131296660;
+<         public static final int tv_push = 2131296661;
+<         public static final int tv_step = 2131296662;
+<         public static final int tv_title = 2131296663;
+<         public static final int txpower = 2131296664;
+<         public static final int unchecked = 2131296665;
+<         public static final int uniform = 2131296666;
+<         public static final int unlabeled = 2131296667;
+<         public static final int up = 2131296668;
+<         public static final int uploadCompleteFragmentActionButton = 2131296669;
+<         public static final int uploadPageFragmentLoadingProgressBarFrame = 2131296670;
+<         public static final int useLogo = 2131296671;
+<         public static final int verifyCallerBackButton = 2131296672;
+<         public static final int verifyCallerFragmentActionButton = 2131296673;
+<         public static final int verifyCallerFragmentVerificationCode = 2131296674;
+<         public static final int version = 2131296675;
+<         public static final int view_announcement = 2131296676;
+<         public static final int view_complete = 2131296677;
+<         public static final int view_offset_helper = 2131296678;
+<         public static final int view_setup = 2131296679;
+<         public static final int visible = 2131296680;
+<         public static final int visible_removing_fragment_view_tag = 2131296681;
+<         public static final int watermark_foot = 2131296682;
+<         public static final int watermark_foot_label = 2131296683;
+<         public static final int watermark_foot_logo = 2131296684;
+<         public static final int webView = 2131296685;
+<         public static final int webview = 2131296686;
+<         public static final int webviewBackButton = 2131296687;
+<         public static final int webview_acknowledgement = 2131296688;
+<         public static final int withText = 2131296689;
+<         public static final int withinBounds = 2131296690;
+<         public static final int wrap = 2131296691;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int tv_app_version = 2131296649;
+>         public static final int tv_bluetooth = 2131296650;
+>         public static final int tv_desc = 2131296651;
+>         public static final int tv_desc_sub = 2131296652;
+>         public static final int tv_desc_sub_1 = 2131296653;
+>         public static final int tv_desc_sub_2 = 2131296654;
+>         public static final int tv_desc_sub_3 = 2131296655;
+>         public static final int tv_error = 2131296656;
+>         public static final int tv_home_subtitle = 2131296657;
+>         public static final int tv_home_title = 2131296658;
+>         public static final int tv_last_update = 2131296659;
+>         public static final int tv_location = 2131296660;
+>         public static final int tv_note_1 = 2131296661;
+>         public static final int tv_push = 2131296662;
+>         public static final int tv_step = 2131296663;
+>         public static final int tv_title = 2131296664;
+>         public static final int txpower = 2131296665;
+>         public static final int unchecked = 2131296666;
+>         public static final int uniform = 2131296667;
+>         public static final int unlabeled = 2131296668;
+>         public static final int up = 2131296669;
+>         public static final int uploadCompleteFragmentActionButton = 2131296670;
+>         public static final int uploadPageFragmentLoadingProgressBarFrame = 2131296671;
+>         public static final int useLogo = 2131296672;
+>         public static final int verifyCallerBackButton = 2131296673;
+>         public static final int verifyCallerFragmentActionButton = 2131296674;
+>         public static final int verifyCallerFragmentVerificationCode = 2131296675;
+>         public static final int version = 2131296676;
+>         public static final int view_announcement = 2131296677;
+>         public static final int view_complete = 2131296678;
+>         public static final int view_offset_helper = 2131296679;
+>         public static final int view_setup = 2131296680;
+>         public static final int visible = 2131296681;
+>         public static final int visible_removing_fragment_view_tag = 2131296682;
+>         public static final int watermark_foot = 2131296683;
+>         public static final int watermark_foot_label = 2131296684;
+>         public static final int watermark_foot_logo = 2131296685;
+>         public static final int webView = 2131296686;
+>         public static final int webview = 2131296687;
+>         public static final int webviewBackButton = 2131296688;
+>         public static final int webview_acknowledgement = 2131296689;
+>         public static final int withText = 2131296690;
+>         public static final int withinBounds = 2131296691;
+>         public static final int wrap = 2131296692;
+>         public static final int wrap_content = 2131296693;
+2586,2630c2587,2633
+<         public static final int search_menu_title = 2131820732;
+<         public static final int see_connections = 2131820733;
+<         public static final int send_otp = 2131820734;
+<         public static final int service_not_ok_action = 2131820735;
+<         public static final int service_not_ok_body = 2131820736;
+<         public static final int service_not_ok_title = 2131820737;
+<         public static final int service_ok_body = 2131820738;
+<         public static final int service_ok_title = 2131820739;
+<         public static final int setup_app_permission = 2131820740;
+<         public static final int setup_app_permission_title = 2131820741;
+<         public static final int setup_incomplete = 2131820742;
+<         public static final int setup_step = 2131820743;
+<         public static final int share_message = 2131820744;
+<         public static final int share_this_app = 2131820745;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+<         public static final int step_one = 2131820747;
+<         public static final int step_two = 2131820748;
+<         public static final int stop = 2131820749;
+<         public static final int submit = 2131820750;
+<         public static final int submit_button = 2131820751;
+<         public static final int tap_next = 2131820752;
+<         public static final int timeout_error = 2131820753;
+<         public static final int title_settings_dialog = 2131820754;
+<         public static final int too_many_requests = 2131820755;
+<         public static final int turn_off_battery = 2131820756;
+<         public static final int tv_howitworks_explanation = 2131820757;
+<         public static final int tv_howitworks_title = 2131820758;
+<         public static final int tv_onboarding_desc = 2131820759;
+<         public static final int tv_onboarding_desc_sub = 2131820760;
+<         public static final int tv_onboarding_title = 2131820761;
+<         public static final int unexpected_error = 2131820762;
+<         public static final int unknown_error = 2131820763;
+<         public static final int upload_agreement = 2131820764;
+<         public static final int upload_button = 2131820765;
+<         public static final int upload_complete_desc = 2131820766;
+<         public static final int upload_complete_title = 2131820767;
+<         public static final int upload_confirm = 2131820768;
+<         public static final int upload_contact = 2131820769;
+<         public static final int upload_data = 2131820770;
+<         public static final int verification_code = 2131820771;
+<         public static final int verification_failed = 2131820772;
+<         public static final int verify = 2131820773;
+<         public static final int view_faq = 2131820774;
+<         public static final int view_privacy = 2131820775;
+<         public static final int wrong_number = 2131820776;
+---
+>         public static final int restart_msg = 2131820732;
+>         public static final int search_menu_title = 2131820733;
+>         public static final int see_connections = 2131820734;
+>         public static final int send_otp = 2131820735;
+>         public static final int service_not_ok_action = 2131820736;
+>         public static final int service_not_ok_body = 2131820737;
+>         public static final int service_not_ok_title = 2131820738;
+>         public static final int service_ok_body = 2131820739;
+>         public static final int service_ok_title = 2131820740;
+>         public static final int setup_app_permission = 2131820741;
+>         public static final int setup_app_permission_title = 2131820742;
+>         public static final int setup_incomplete = 2131820743;
+>         public static final int setup_step = 2131820744;
+>         public static final int share_message = 2131820745;
+>         public static final int share_this_app = 2131820746;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+>         public static final int step_one = 2131820748;
+>         public static final int step_two = 2131820749;
+>         public static final int stop = 2131820750;
+>         public static final int submit = 2131820751;
+>         public static final int submit_button = 2131820752;
+>         public static final int tap_next = 2131820753;
+>         public static final int timeout_error = 2131820754;
+>         public static final int title_settings_dialog = 2131820755;
+>         public static final int too_many_requests = 2131820756;
+>         public static final int turn_off_battery = 2131820757;
+>         public static final int tv_howitworks_explanation = 2131820758;
+>         public static final int tv_howitworks_title = 2131820759;
+>         public static final int tv_onboarding_desc = 2131820760;
+>         public static final int tv_onboarding_desc_sub = 2131820761;
+>         public static final int tv_onboarding_title = 2131820762;
+>         public static final int tv_uuid_retry_error = 2131820763;
+>         public static final int unexpected_error = 2131820764;
+>         public static final int unknown_error = 2131820765;
+>         public static final int upload_agreement = 2131820766;
+>         public static final int upload_button = 2131820767;
+>         public static final int upload_complete_desc = 2131820768;
+>         public static final int upload_complete_title = 2131820769;
+>         public static final int upload_confirm = 2131820770;
+>         public static final int upload_contact = 2131820771;
+>         public static final int upload_data = 2131820772;
+>         public static final int verification_code = 2131820773;
+>         public static final int verification_failed = 2131820774;
+>         public static final int verify = 2131820775;
+>         public static final int view_faq = 2131820776;
+>         public static final int view_privacy = 2131820777;
+>         public static final int wrong_number = 2131820778;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService.java"
+17a18
+> import ca.albertahealthservices.contacttracing.RestartActivity;
+23a25
+> import ca.albertahealthservices.contacttracing.logging.WFLog;
+943c945,950
+<                 CentralLog.Companion.d(TAG, "User is not login but has completed onboarding");
+---
+>                 String str = "User is not logged in but has completed onboarding";
+>                 CentralLog.Companion.d(TAG, str);
+>                 WFLog.Companion.logError(str);
+>                 Intent intent = new Intent(getApplicationContext(), RestartActivity.class);
+>                 intent.addFlags(268435456);
+>                 getApplicationContext().startActivity(intent);
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$performPurge$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$performPurge$1.java"
+20c20
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$performPurge$1", f = "BluetoothMonitoringService.kt", i = {0, 0, 1, 1}, l = {525, 526}, m = "invokeSuspend", n = {"$this$launch", "before", "$this$launch", "before"}, s = {"L$0", "J$0", "L$0", "J$0"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$performPurge$1", f = "BluetoothMonitoringService.kt", i = {0, 0, 1, 1}, l = {526, 527}, m = "invokeSuspend", n = {"$this$launch", "before", "$this$launch", "before"}, s = {"L$0", "J$0", "L$0", "J$0"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$StatusReceiver$onReceive$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$StatusReceiver$onReceive$1.java"
+18c18
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$StatusReceiver$onReceive$1", f = "BluetoothMonitoringService.kt", i = {0}, l = {664}, m = "invokeSuspend", n = {"$this$launch"}, s = {"L$0"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$StatusReceiver$onReceive$1", f = "BluetoothMonitoringService.kt", i = {0}, l = {665}, m = "invokeSuspend", n = {"$this$launch"}, s = {"L$0"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$StreetPassReceiver$onReceive$1.java" "abtracetogether_1.0.1.apk_disassembled/sources\\ca\\albertahealthservices\\contacttracing\\services\\BluetoothMonitoringService$StreetPassReceiver$onReceive$1.java"
+21c21
+< @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$StreetPassReceiver$onReceive$1", f = "BluetoothMonitoringService.kt", i = {0}, l = {645}, m = "invokeSuspend", n = {"$this$launch"}, s = {"L$0"})
+---
+> @DebugMetadata(c = "ca.albertahealthservices.contacttracing.services.BluetoothMonitoringService$StreetPassReceiver$onReceive$1", f = "BluetoothMonitoringService.kt", i = {0}, l = {646}, m = "invokeSuspend", n = {"$this$launch"}, s = {"L$0"})
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\com\\airbnb\\lottie\\parser\\moshi\\JsonUtf8Reader.java" "abtracetogether_1.0.1.apk_disassembled/sources\\com\\airbnb\\lottie\\parser\\moshi\\JsonUtf8Reader.java"
+397,400d396
+<     	at jadx.core.ProcessClass.lambda$processDependencies$0(ProcessClass.java:49)
+<     	at java.util.ArrayList.forEach(Unknown Source)
+<     	at jadx.core.ProcessClass.processDependencies(ProcessClass.java:49)
+<     	at jadx.core.ProcessClass.process(ProcessClass.java:35)
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\com\\airbnb\\lottie\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\com\\airbnb\\lottie\\R.java"
+749,751c749,751
+<         public static final int uniform = 2131296666;
+<         public static final int up = 2131296668;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int uniform = 2131296667;
+>         public static final int up = 2131296669;
+>         public static final int wrap_content = 2131296693;
+840,841c840,841
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\com\\google\\android\\material\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\com\\google\\android\\material\\R.java"
+1664,1671c1664,1671
+<         public static final int unchecked = 2131296665;
+<         public static final int uniform = 2131296666;
+<         public static final int unlabeled = 2131296667;
+<         public static final int up = 2131296668;
+<         public static final int view_offset_helper = 2131296678;
+<         public static final int visible = 2131296680;
+<         public static final int withinBounds = 2131296690;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int unchecked = 2131296666;
+>         public static final int uniform = 2131296667;
+>         public static final int unlabeled = 2131296668;
+>         public static final int up = 2131296669;
+>         public static final int view_offset_helper = 2131296679;
+>         public static final int visible = 2131296681;
+>         public static final int withinBounds = 2131296691;
+>         public static final int wrap_content = 2131296693;
+1908,1909c1908,1909
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\kotlin\\collections\\ArrayAsCollection.java" "abtracetogether_1.0.1.apk_disassembled/sources\\kotlin\\collections\\ArrayAsCollection.java"
+72c72
+<         return ArraysKt.contains(this.values, obj);
+---
+>         return ArraysKt.contains((Object[]) this.values, obj);
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\kotlin\\collections\\MapsKt__MapsJVMKt.java" "abtracetogether_1.0.1.apk_disassembled/sources\\kotlin\\collections\\MapsKt__MapsJVMKt.java"
+54c54
+<         MapsKt.putAll((Map) treeMap, pairArr);
+---
+>         MapsKt.putAll((Map) treeMap, (Pair[]) pairArr);
+diff "abtracetogether_1.0.0.apk_disassembled/sources\\pub\\devrel\\easypermissions\\R.java" "abtracetogether_1.0.1.apk_disassembled/sources\\pub\\devrel\\easypermissions\\R.java"
+730,732c730,732
+<         public static final int uniform = 2131296666;
+<         public static final int up = 2131296668;
+<         public static final int wrap_content = 2131296692;
+---
+>         public static final int uniform = 2131296667;
+>         public static final int up = 2131296669;
+>         public static final int wrap_content = 2131296693;
+823,825c823,825
+<         public static final int search_menu_title = 2131820732;
+<         public static final int status_bar_notification_info_overflow = 2131820746;
+<         public static final int title_settings_dialog = 2131820754;
+---
+>         public static final int search_menu_title = 2131820733;
+>         public static final int status_bar_notification_info_overflow = 2131820747;
+>         public static final int title_settings_dialog = 2131820755;

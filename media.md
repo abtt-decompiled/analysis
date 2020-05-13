@@ -7,11 +7,16 @@
 
 [ABTraceTogether on Google Play](https://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing)
 
-[ABTraceTogether 1.0.0 Disassembled Code](https://github.com/abtt-decompiled/abtracetogether_1.0.0.apk_disassembled)
+https://apps.apple.com/ca/app/abtracetogether/id1508213665
 
-[APK decompilers Online](https://www.apkdecompilers.com/) - the tool used to produce the above disassembled code.
+ABTraceTogether Disassembled Code
 
-[OpenTrace Android](https://github.com/opentrace-community/opentrace-android) reference app source code.
+- [1.0.0](https://github.com/abtt-decompiled/abtracetogether_1.0.0.apk_disassembled)
+- [1.0.1](https://github.com/abtt-decompiled/abtracetogether_1.0.1.apk_disassembled)
+
+[APK Decompilers Online](https://www.apkdecompilers.com/) - The tool used to produce the above disassembled code
+
+[OpenTrace Android](https://github.com/opentrace-community/opentrace-android) - The reference app source code
 
 ## OpenTrace App Teardowns: Technical Resources
 
@@ -42,12 +47,21 @@ May 2 2020 - [iOS Application background behaviour](https://docs.google.com/docu
 
 May 4 2020 - [The Broken COVIDSafe iOS application](https://medium.com/@wabz/the-broken-covidsafe-ios-application-c652d0a462c4) - Richard Nelson
 
+May 5 2020 - [Alberta's COVID-19 tracking app is flawed but worth using, experts say](https://www.cbc.ca/news/canada/edmonton/covid-19-tracing-tracking-application-1.5555353) - CBC
+
 May 7 2020 - [A flood of coronavirus apps are tracking us. Now it’s time to keep track of them.](https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/) - MIT Technology Review. See also, MIT's [database of coronoavirus tracker apps](https://public.flourish.studio/visualisation/2241702/).
 
 May 7 2020 - [If the @DTA
  were to update the #COVIDSafe app with the Google/Apple Exposure Notification APIs, it would require some hefty changes to a lot of things. A brief investigation.](https://twitter.com/KonajuGames/status/1258446501488889856) - Steve Williams, twitter thread. Many of the difficulties highlighted here will apply to ABTraceTogether also.
 
-## ABTraceTogether Coverage
+## ABTraceTogether and Canadian Coverage
+
+March 31 2020 - [Canadian authorities in talks about COVID-19 tracking app](https://www.hilltimes.com/2020/03/31/canadian-authorities-in-talks-about-covid-19-tracking-apps/241834) - 
+The Hill Times
+
+April 3 2020 - [Tech companies are proposing Canada use phone apps to track spread of coronavirus](https://globalnews.ca/news/6772753/tech-companies-canada-phone-apps-tracking-coronavirus-spread/) - Global News
+
+April 23 2020 - [Concerns about low uptake, flawed pandemic data linger as provinces pursue digital contact tracing](https://www.cbc.ca/news/politics/contact-tracing-app-provinces-1.5538541) - CBC
 
 May 1 2020 - [Alberta launches ABTraceTogether app to improve contact tracing, fight COVID-19 spread](https://globalnews.ca/news/6894997/covid-19-alberta-health-contact-tracing-app/) - Global News
 
@@ -57,15 +71,21 @@ May 1 2020 - [The Canadian Province of Alberta introduced the Country's first Co
 
 May 2 2020 - ['Invasion of privacy': Watchdogs concerned about apps tracking COVID-19 patients](https://montreal.citynews.ca/2020/05/02/invasion-of-privacy-watchdogs-concerned-about-apps-tracking-covid-19-patients/) - CityNews Montreal
 
+May 2 2020 [ABTraceTogether Cybersecurity & Privacy](https://www.threeshield.ca/ca/ABTraceTogether%20security%20privacy/) - Chris Nowell, ThreeShield Information Security
+
 May 3 2020 - [Concerns surface over Alberta COVID-19 app's practicality and privacy](https://calgaryherald.com/news/concerns-surface-over-alberta-covid-19-app-practicality-privacy-two-new-deaths-reported/) - Calgary Herald
 
 May 3 2020 - [COVID-19: Alberta contact tracing app downloaded 60,000 times in first day](https://edmontonjournal.com/news/local-news/covid-19-saturday-may-2/wcm/27a479ba-ee68-498b-b60d-7b74a596567c/) - Edmonton Journal
 
 May 3 2020 - [Some of us are in this together, sometimes](https://medium.com/@mattlaschneider/some-of-us-are-in-this-together-sometimes-e7b50b4c0fb0) - Matthew Schneider
 
+May 3 2020 - [Consent for coronavirus tracing apps must be ‘meaningful’, Canada’s privacy watchdog says](https://globalnews.ca/news/6896631/coronavirus-canada-contact-tracing-privacy/) - Global News
+
 May 4 2020 - [Privacy expert says flawed Alberta COVID-19 contact tracking app shouldn’t have been released](https://www.itworldcanada.com/article/privacy-expert-says-flawed-alberta-covid-19-contact-tracking-app-shouldnt-have-been-released/430252) - ITWorld Canada. "“There is nothing in any of this as to how long the app will be around, how long any information collected from it will be used or by whom in the world, except the Alberta Health Information Act allows it to be used for research anywhere,” said Sharon Polsky, president of the Privacy and Access Council of Canada ... "
 
 May 4 2020 - [Déploiement au Canada d’une application mobile de détection de la pandémie / "Launch of a contact tracing app in Canada"](https://www.rcinet.ca/fr/2020/05/04/deploiement-au-canada-dune-application-mobile-de-detection-de-la-pandemie/) - Radio Canada
+
+May 4 2020 - [Alberta’s contact-tracing app only works on iOS when phone is unlocked, app running in foreground](https://globalnews.ca/news/6898691/ab-trace-together-contact-app-alberta-covid-ios/) - Global News. "Alberta Health confirmed to Global News that IBM servers in Canada are being used to store the data submitted from the app."
 
 May 5 2020 - [Concerns raised about Alberta's new contact tracing app](https://mailchi.mp/taprootedmonton/tech-roundup-may-05-2020) - Taproot Edmonton Tech Roundup
 
@@ -88,6 +108,11 @@ April 2 2020 (Updated May 7) - [TraceTogether: Not Easy to Verify the State’s 
 
 April 6 2020 - [On the privacy of TraceTogether, the Singaporean COVID-19 contact tracing mobile app, and recommendations for Australia](https://eng.unimelb.edu.au/ingenium/research-stories/world-class-research/real-world-impact/on-the-privacy-of-tracetogether,-the-singaporean-covid-19-contact-tracing-mobile-app,-and-recommendations-for-australia) - University of Melbourne/Macquarie University researchers
 
+April 14 2020 - [How Google Plans to Push Its Coronavirus Tracing Feature to Android Phones](https://www.vice.com/en_us/article/dygbmj/how-google-coronavirus-contact-tracing-feature-update) - Vice. " ... Google said it was using the Play Services mechanism to update phones with the contact-tracing system." "In effect, this means Google can force its contact tracing API onto phones without the cooperation of carriers or device manufacturers, and without users having to do anything."
+
+April 14 2020 - [Apple, Google to terminate COVID-19 tracking tools once pandemic ends](https://www.cnet.com/news/apple-and-google-say-they-will-shut-down-covid-19-tracking-tools-once-pandemic-ends/) - cnet. "The lesson of the USA Patriot Act and other 'temporary' post 9/11 surveillance we're still fighting to roll back is that emergency responses rarely are as short-lived as the emergency ..."
+
+April 15 2020 - [Apple and Google's Coronavirus Tracking Plan Is a Symptom of Their Power](https://www.vice.com/en_us/article/xgqbxa/apple-and-google-coronavirus-tracking-plan-is-a-symptom-of-their-power) - Vice. "Without proper testing, without enough protective equipment, and without a social safety net, it is increasingly looking like Americans will be asked to head back to work sooner rather than later, even if it is not completely safe to do so. In the absence of a competent, compassionate government response, what we do have is a massive number of devices that can be turned into a society-wide net of constant checkpoints with the flip of a switch. "
 
 April 23 2020 - [Why Experts Want The Government To Release The Source Code Of Its Tracing App](https://www.gizmodo.com.au/2020/04/coronavirus-tracing-app-australia-source-code/) - Gizmodo Australia
 
@@ -126,6 +151,8 @@ May 7 2020 - [Coronavirus contact-tracing: World split between two types of app]
 May 7 2020 - [Un-appy, Scott: flaws and inconsistencies start to mount for troubled surveillance app](https://www.crikey.com.au/2020/05/07/flaws-inconsistencies-covidsafe/) - Crikey (Australia/COVIDSafe). "The haste with which the government has rushed out its surveillance app means flaws are now emerging that could be exploited by stalkers and domestic abusers."
 
 May 8 2020 - [A comparison on the state of CovidApp transparency in Aus, the UK and Singapore](https://twitter.com/VTeagueAus/status/1258745850647293953) - Vanessa Teague, Twitter thread
+
+May 10 2020 - [Coronavirus contact tracing poses serious threats to our privacy](https://theconversation.com/coronavirus-contact-tracing-poses-serious-threats-to-our-privacy-137073) - The Conversation. "Contact tracing using digital technology represents an opportunity to battle COVID-19 and reopen the economy, but its application will create unprecedented surveillance infrastructure beyond anything we have seen before."
 
 ## Academic Pieces
 
