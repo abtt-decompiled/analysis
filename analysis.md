@@ -3,7 +3,7 @@
 >  
 >  [@king4nosehill](https://twitter.com/king4nosehill/) / patrick.f.king@gmail.com
 
-Updated Tuesday May 12, 2020
+Updated Wednesday May 13, 2020
 
 
 ## Introduction
@@ -52,7 +52,7 @@ The [BlueTrace whitepaper](https://bluetrace.io/static/bluetrace_whitepaper-9380
 
 Apps begin life as a folder full of text files written in a programming language, the *source code*. The source has two major jobs to do: it has to describe the operation of the app in perfect detail, and it also has to be readable and understandable to human maintainers into the future. Many developers and corporations choose to release the source code behind their apps, making them *open source*. With source code in hand, a developer can verify that the app works as expected, compile the source into a fresh copy of the app, and create variants of the app for their own purposes.
 
-However, even when the source code is not available, it's often possible to examine the inner workings of an app by decompiling the app's files, producing *decompiled code*. This code is typically missing many of the details added to the source specifically to make it readable and understandable, but with patience a great deal can be learned from decompiled code. When the source code is available, a developer can try to check that the app in an app store matches the source code, by comparing the app's decompiled code to the source code.
+However, even when the source code is not available, it's often possible to examine the inner workings of an app by decompiling the app's files, producing *decompiled code* (sometimes also called disassembled code). This code is typically missing many of the details added to the source specifically to make it readable and understandable, but with patience a great deal can be learned from decompiled code. When the source code is available, a developer can try to check that the app in an app store matches the source code, by comparing the app's decompiled code to the source code.
 
 At this writing, the government of Alberta has pledged to release the source code for ABTraceTogether soon, and has not done so yet. But, ABTraceTogether is a modified version of OpenTrace, which does have published source code. This examination is based on the decompiled code of ABTraceTogether, comparing it with OpenTrace's source code.
 
@@ -74,7 +74,11 @@ This data collection should be minimal, and is consistent with the [FAQ](https:/
 
 ### Android 8+ Required
 
-OpenTrace is designed with the relatively low version requirement of [Android 5.1 (API level 22)](https://github.com/abtt-decompiled/opentrace-android/blob/master/app/build.gradle#L36). ABTraceTogether has a much higher requirement of [Android 8 (API level 26)](https://github.com/abtt-decompiled/abtracetogether_1.0.1.apk_disassembled/blob/c996e20b180a9dfbfb3addd10511af76ce8ae1ed/resources%5CAndroidManifest.xml#L3). It's not immediately clear to me why this was necessary, as the major dependency switch to MobileFirst appears to be compatible with Android versions [back to Android 6 (API level 23)](https://mobilefirstplatform.ibmcloud.com/blog/2019/09/04/mobilefirst-android-Q/), which is the oldest target version that Google will still allow into the Play store. Numerous [reviews](https://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing&hl=en_US&showAllReviews=true) on the Play store reference how relatively new devices are not supported by the app. Given the stated goal of wide adoption of the app, making technology choices that exclude Android 6 and 7, which make up [36% of Android phones](https://www.androidauthority.com/android-version-distribution-748439/), seems like a mistake.
+OpenTrace is designed with the relatively low version requirement of [Android 5.1 (API level 22)](https://github.com/abtt-decompiled/opentrace-android/blob/master/app/build.gradle#L36). ABTraceTogether has a much higher requirement of [Android 8 (API level 26)](https://github.com/abtt-decompiled/abtracetogether_1.0.1.apk_disassembled/blob/c996e20b180a9dfbfb3addd10511af76ce8ae1ed/resources%5CAndroidManifest.xml#L3). It's not immediately clear to me why this was necessary, as the major dependency switch to MobileFirst appears to be compatible with Android versions at least [back to Android 6 (API level 23)](https://mobilefirstplatform.ibmcloud.com/blog/2019/09/04/mobilefirst-android-Q/). Numerous [reviews](https://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing&hl=en_US&showAllReviews=true) on the Play store reference how relatively new devices are not supported by the app.
+
+Given the stated goal of wide adoption of the app, making technology choices that exclude Android 5.1 through Android 7, which [make up 47%](https://www.androidauthority.com/android-version-distribution-748439/) of Android phones worldwide, seems like a mistake. Adoption of newer Android handsets is probably higher in Alberta than the global average, but this still leaves a large range of Albertans out.
+
+_Update: an earlier version of this section said that Google Play prevented new apps from supporting Android older than Android 6, but this is incorrect. This means that the range of Android handsets that ABTraceTogether could possibly have supported is wider than I thought at the start._
 
 ### Logging features
 
@@ -133,9 +137,11 @@ I've identified a list of topics to dig into in more detail, time permitting.
 - Issues with the central authority having the phone number
 - Difficulties with an eventual Apple/Google upgrade (and confusion in communication on this point)
 - Sunset clause
+- Data upload, 15 minute requirement for contacts
 
 ## Changes
 
+- Wednesday May 13: fix an error about the minimum Android requirement for Google Play, add more items to media
 - Tuesday May 12: add sections for logging, 1.0.1 changes, Android 8, MobileFirst and analytics, new introduction
 - Monday May 11: first release
 
